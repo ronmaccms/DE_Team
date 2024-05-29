@@ -1,0 +1,1006 @@
+
+Tirana: 1.38 / Albanian / Greek / Italy
+Durres: 0.98 / Albanian / Greek / Italy
+Vlore: 0.51 / Albanian / Greek / Italy
+Kamez: 0.62 / Albanian / Greek / Italy
+Fier: 0.65 / Albanian / Greek / Italy
+Shkoder: 0.55 / Albanian / Greek / Italy
+Elbasan: 0.48 / Albanian / Greek / Italy
+Algiers: -4.10 / Arabic / French / France
+Constantine: -3.00 / Arabic / French / France
+Batna: -2.75 / Arabic / French / France
+Setif: -3.10 / Arabic / French / France
+Djelfa: -2.50 / Arabic / French / France
+Annaba: -3.20 / Arabic / French / France
+Sidi Aissa: -2.80 / Arabic / French / France
+Buenos Aires: -1.20 / Spanish / English / Spain
+Cordoba: -0.85 / Spanish / English / Spain
+Rosario: -0.95 / Spanish / English / Spain
+Santiago del Estero: -0.65 / Spanish / English / Spain
+Comodoro Rivadavia: -0.50 / Spanish / English / Spain
+Mar del Plata: -0.70 / Spanish / English / Spain
+San Miguel de Tucuman: -0.75 / Spanish / English / Spain
+Yerevan: -5.10 / Armenian / Russian / Russia
+Gyumri: -4.50 / Armenian / Russian / Russia
+Vanadzor: -4.20 / Armenian / Russian / Russia
+Ejmiatsin: -4.00 / Armenian / Russian / Russia
+Hrazdan: -3.80 / Armenian / Russian / Russia
+Abovyan: -3.60 / Armenian / Russian / Russia
+Kapan: -3.50 / Armenian / Russian / Russia
+Melbourne: 2.10 / English / Mandarin / United Kingdom
+Sydney: 3.00 / English / Mandarin / United Kingdom
+Brisbane: 1.85 / English / Mandarin / United Kingdom
+Perth: 1.75 / English / Mandarin / United Kingdom
+Adelaide: 1.50 / English / Mandarin / United Kingdom
+Gold Coast: 1.60 / English / Mandarin / United Kingdom
+Cranbourne: 1.30 / English / Mandarin / United Kingdom
+Canberra: 1.25 / English / Mandarin / United Kingdom
+Central Coast: 1.10 / English / Mandarin / United Kingdom
+Wollongong: 1.05 / English / Mandarin / United Kingdom
+Ipswich: 1.00 / English / Mandarin / United Kingdom
+Hobart: 0.90 / English / Mandarin / United Kingdom
+Vienna: 1.25 / German / Turkish / Germany
+Graz: 0.85 / German / Turkish / Germany
+Linz: 0.75 / German / Turkish / Germany
+Lochau: 0.65 / German / Turkish / Germany
+Salzburg: 0.70 / German / Turkish / Germany
+Innsbruck: 0.60 / German / Turkish / Germany
+Klagenfurt: 0.55 / German / Turkish / Germany
+Villach: 0.50 / German / Turkish / Germany
+Wels: 0.45 / German / Turkish / Germany
+Sankt Polten: 0.40 / German / Turkish / Germany
+Baku: -1.20 / Azerbaijani / Russian / Russia
+Sumqayit: -1.00 / Azerbaijani / Russian / Russia
+Ganca: -0.90 / Azerbaijani / Russian / Russia
+Agcabadi: -0.80 / Azerbaijani / Russian / Russia
+Mingacevir: -0.70 / Azerbaijani / Russian / Russia
+Xirdalan: -0.60 / Azerbaijani / Russian / Russia
+Naxcivan: -0.50 / Azerbaijani / Russian / Russia
+Manama: 2.50 / Arabic / English / Saudi Arabia
+Al Muharraq: 2.20 / Arabic / English / Saudi Arabia
+Madinat Hamad: 2.00 / Arabic / English / Saudi Arabia
+Jidd Hafs: 1.80 / Arabic / English / Saudi Arabia
+Madinat `Isa: 1.60 / Arabic / English / Saudi Arabia
+Sitrah: 1.40 / Arabic / English / Saudi Arabia
+Ad Diraz: 1.20 / Arabic / English / Saudi Arabia
+Dhaka: -3.50 / Bengali / English / India
+Chattogram: -2.80 / Bengali / English / India
+Gazipura: -2.60 / Bengali / English / India
+Rajshahi: -2.50 / Bengali / English / India
+Khulna: -2.40 / Bengali / English / India
+Rangapukur: -2.30 / Bengali / English / India
+Narayanganj: -2.20 / Bengali / English / India
+Minsk: -1.00 / Belarusian / Russian / Russia
+Homyel': -0.80 / Belarusian / Russian / Russia
+Vitsyebsk: -0.70 / Belarusian / Russian / Russia
+Hrodna: -0.60 / Belarusian / Russian / Russia
+Mahilyow: -0.50 / Belarusian / Russian / Russia
+Brest: -0.40 / Belarusian / Russian / Russia
+Babruysk: -0.30 / Belarusian / Russian / Russia
+Brussels: 0.85 / Dutch / French / France
+Antwerp: 0.70 / Dutch / French / France
+Gent: 0.65 / Dutch / French / France
+Charleroi: 0.55 / Dutch / French / France
+Liege: 0.50 / Dutch / French / France
+Schaarbeek: 0.45 / Dutch / French / France
+Anderlecht: 0.40 / Dutch / French / France
+Bruges: 0.35 / Dutch / French / France
+Namur: 0.30 / Dutch / French / France
+Sarajevo: -1.10 / Bosnian / Serbian / Germany
+Banja Luka: -0.90 / Bosnian / Serbian / Germany
+Bijeljina: -0.80 / Bosnian / Serbian / Germany
+Mostar: -0.70 / Bosnian / Serbian / Germany
+Prijedor: -0.60 / Bosnian / Serbian / Germany
+Zenica: -0.50 / Bosnian / Serbian / Germany
+Doboj: -0.40 / Bosnian / Serbian / Germany
+Ilidza: -0.30 / Bosnian / Serbian / Germany
+Sao Paulo: -0.75 / Portuguese / Spanish / United States
+Rio de Janeiro: -0.70 / Portuguese / Spanish / United States
+Belo Horizonte: -0.65 / Portuguese / Spanish / United States
+Fortaleza: -0.60 / Portuguese / Spanish / United States
+Brasilia: -0.80 / Portuguese / Spanish / United States
+Salvador: -0.85 / Portuguese / Spanish / United States
+Manaus: -0.60 / Portuguese / Spanish / United States
+Santos: -0.70 / Portuguese / Spanish / United States
+Curitiba: -0.65 / Portuguese / Spanish / United States
+Recife: -0.75 / Portuguese / Spanish / United States
+Goiania: -0.50 / Portuguese / Spanish / United States
+Porto Alegre: -0.55 / Portuguese / Spanish / United States
+Guarulhos: -0.40 / Portuguese / Spanish / United States
+Florianopolis: -0.45 / Portuguese / Spanish / United States
+Sofia: -0.30 / Bulgarian / Turkish / Germany
+Varna: -0.25 / Bulgarian / Turkish / Germany
+Plovdiv: -0.20 / Bulgarian / Turkish / Germany
+Burgas: -0.35 / Bulgarian / Turkish / Germany
+Ruse: -0.10 / Bulgarian / Turkish / Germany
+Stara Zagora: -0.15 / Bulgarian / Turkish / Germany
+Pleven: -0.05 / Bulgarian / Turkish / Germany
+Sliven: -0.18 / Bulgarian / Turkish / Germany
+Pernik: -0.08 / Bulgarian / Turkish / Germany
+Pazardzhik: -0.12 / Bulgarian / Turkish / Germany
+Phnom Penh: -3.00 / Khmer / French / Thailand
+Siem Reap: -2.80 / Khmer / French / Thailand
+Battambang: -2.70 / Khmer / French / Thailand
+Pailin: -2.60 / Khmer / French / Thailand
+Ta Khmau: -2.50 / Khmer / French / Thailand
+Kampong Cham: -2.40 / Khmer / French / Thailand
+Sisophon: -2.30 / Khmer / French / Thailand
+Douala: -1.50 / French / English / France
+Yaounde: -1.70 / French / English / France
+Bamenda: -1.20 / English / French / France
+Bafoussam: -1.10 / French / English / France
+Garoua: -1.30 / French / English / France
+Maroua: -1.00 / French / English / France
+Ngaoundere: -1.40 / French / English / France
+Toronto: 2.50 / English / French / United States
+Montreal: 1.80 / French / English / United States
+Vancouver: 2.20 / English / Mandarin / United States
+Calgary: 1.60 / English / French / United States
+Edmonton: 1.50 / English / French / United States
+Ottawa: 1.40 / English / French / United States
+Winnipeg: 1.30 / English / French / United States
+Quebec City: 1.00 / French / English / United States
+Hamilton: 1.70 / English / French / United States
+Mississauga: 1.90 / English / French / United States
+Brampton: 2.00 / English / French / United States
+Surrey: 2.10 / English / Punjabi / United States
+Kitchener: 1.20 / English / French / United States
+Halifax: 1.10 / English / French / United States
+Laval: 1.05 / French / English / United States
+Victoria: 1.25 / English / French / United States
+Markham: 1.95 / English / Mandarin / United States
+Oshawa: 1.15 / English / French / United States
+Saskatoon: 1.40 / English / French / United States
+Cambridge: 1.35 / English / French / United States
+Santiago: -0.95 / Spanish / English / United States
+Concepcion: -0.85 / Spanish / English / United States
+Puente Alto: -0.75 / Spanish / English / United States
+Maipu: -0.70 / Spanish / English / United States
+La Florida: -0.65 / Spanish / English / United States
+Antofagasta: -0.55 / Spanish / English / United States
+Vina del Mar: -0.60 / Spanish / English / United States
+Guangzhou: 3.00 / Mandarin / Cantonese / United States
+Shanghai: 2.75 / Mandarin / Shanghainese / United States
+Beijing: 2.50 / Mandarin / English / United States
+Shenzhen: 2.80 / Mandarin / Cantonese / United States
+Chengdu: 2.20 / Mandarin / Sichuanese / United States
+Xi'an: 2.10 / Mandarin / English / United States
+Chongqing: 2.00 / Mandarin / Sichuanese / United States
+Baoding: 1.90 / Mandarin / English / United States
+Linyi: 1.80 / Mandarin / English / United States
+Dongguan: 2.30 / Mandarin / Cantonese / United States
+Tianjin: 2.40 / Mandarin / English / United States
+Wuhan: 2.15 / Mandarin / English / United States
+Hangzhou: 2.05 / Mandarin / English / United States
+Nanjing: 2.00 / Mandarin / English / United States
+Suzhou: 1.95 / Mandarin / English / United States
+Bogota: -1.20 / Spanish / English / United States
+Medellin: -1.10 / Spanish / English / United States
+Cali: -1.05 / Spanish / English / United States
+Barranquilla: -0.95 / Spanish / English / United States
+Cartagena: -0.85 / Spanish / English / United States
+Bucaramanga: -0.75 / Spanish / English / United States
+Cucuta: -0.70 / Spanish / English / United States
+Palermo: -0.65 / Italian / Sicilian / Germany
+Soledad: -0.60 / Spanish / English / United States
+Zagreb: -0.30 / Croatian / Serbian / Germany
+Split: -0.25 / Croatian / Serbian / Germany
+Rijeka: -0.20 / Croatian / Serbian / Germany
+Osijek: -0.35 / Croatian / Serbian / Germany
+Sesvete: -0.10 / Croatian / Serbian / Germany
+Zadar: -0.15 / Croatian / Serbian / Germany
+Velika Gorica: -0.08 / Croatian / Serbian / Germany
+Pula: -0.12 / Croatian / Serbian / Germany
+Karlovac: -0.18 / Croatian / Serbian / Germany
+Slavonski Brod: -0.22 / Croatian / Serbian / Germany
+Nicosia: -0.25 / Greek / Turkish / Greece
+Limassol: -0.20 / Greek / Turkish / Greece
+Larnaca: -0.15 / Greek / Turkish / Greece
+Paphos: -0.10 / Greek / Turkish / Greece
+Famagusta: -0.08 / Greek / Turkish / Greece
+Kyrenia: -0.20 / Greek / Turkish / Greece
+Kato Polemidia: -0.18 / Greek / Turkish / Greece
+Aradippou: -0.15 / Greek / Turkish / Greece
+Latsia: -0.12 / Greek / Turkish / Greece
+Prague: 1.50 / Czech / Slovak / Germany
+Brno: 0.80 / Czech / Slovak / Germany
+Ostrava: 0.75 / Czech / Slovak / Germany
+Plzen: 0.60 / Czech / Slovak / Germany
+Liberec: 0.40 / Czech / Slovak / Germany
+Olomouc: 0.50 / Czech / Slovak / Germany
+Ceske Budejovice: 0.45 / Czech / Slovak / Germany
+Hradec Kralove: 0.35 / Czech / Slovak / Germany
+Pardubice: 0.30 / Czech / Slovak / Germany
+Usti nad Labem: 0.25 / Czech / Slovak / Germany
+Copenhagen: 2.50 / Danish / English / Sweden
+Aarhus: 1.75 / Danish / English / Sweden
+Odense: 1.60 / Danish / English / Sweden
+Aalborg: 1.40 / Danish / English / Sweden
+Esbjerg: 1.20 / Danish / English / Sweden
+Randers: 1.10 / Danish / English / Sweden
+Horsens: 1.05 / Danish / English / Sweden
+Kolding: 0.95 / Danish / English / Sweden
+Santo Domingo: -1.30 / Spanish / English / United States
+Santo Domingo Este: -1.25 / Spanish / English / United States
+Puerto Plata: -1.10 / Spanish / English / United States
+Los Alcarrizos: -1.05 / Spanish / English / United States
+Higuey: -1.00 / Spanish / English / United States
+La Vega: -0.95 / Spanish / English / United States
+San Pedro de Macoris: -1.15 / Spanish / English / United States
+Guayaquil: -0.80 / Spanish / Quechua / Spain
+Quito: -0.75 / Spanish / Quechua / Spain
+Cuenca: -0.70 / Spanish / Quechua / Spain
+Santo Domingo de los Colorados: -0.65 / Spanish / Quechua / Spain
+Eloy Alfaro: -0.60 / Spanish / Quechua / Spain
+Machala: -0.55 / Spanish / Quechua / Spain
+Manta: -0.50 / Spanish / Quechua / Spain
+Cairo: -4.50 / Arabic / English / Saudi Arabia
+Giza: -4.00 / Arabic / English / Saudi Arabia
+Alexandria: -3.80 / Arabic / English / Saudi Arabia
+Shubra al Khaymah: -3.50 / Arabic / English / Saudi Arabia
+Ashmun: -3.20 / Arabic / English / Saudi Arabia
+Sinnuris: -3.00 / Arabic / English / Saudi Arabia
+Dayrut: -2.80 / Arabic / English / Saudi Arabia
+Tukh: -2.60 / Arabic / English / Saudi Arabia
+Tallinn: 1.20 / Estonian / Russian / Finland
+Tartu: 0.80 / Estonian / Russian / Finland
+Narva: 0.60 / Estonian / Russian / Finland
+Parnu: 0.55 / Estonian / Russian / Finland
+Kohtla-Jarve: 0.50 / Estonian / Russian / Finland
+Viljandi: 0.45 / Estonian / Russian / Finland
+Maardu: 0.40 / Estonian / Russian / Finland
+Rakvere: 0.35 / Estonian / Russian / Finland
+Addis Ababa: -1.50 / Amharic / English / United States
+Erer Sata: -1.40 / Amharic / English / United States
+Shashemene: -1.30 / Amharic / English / United States
+K'ebri Dehar: -1.20 / Amharic / English / United States
+Nazret: -1.10 / Amharic / English / United States
+Mekele: -1.00 / Amharic / English / United States
+Gode: -0.90 / Amharic / English / United States
+Helsinki: 0.85 / Finnish / Swedish / Sweden
+Tampere: 0.75 / Finnish / Swedish / Sweden
+Espoo: 0.70 / Finnish / Swedish / Sweden
+Turku: 0.65 / Finnish / Swedish / Sweden
+Vantaa: 0.60 / Finnish / Swedish / Sweden
+Oulu: 0.55 / Finnish / Swedish / Sweden
+Jyvaskyla: 0.50 / Finnish / Swedish / Sweden
+Kuopio: 0.45 / Finnish / Swedish / Sweden
+Lahti: 0.40 / Finnish / Swedish / Sweden
+Kouvola: 0.35 / Finnish / Swedish / Sweden
+Paris: 1.20 / French / English / Spain
+Bordeaux: 0.85 / French / English / Spain
+Marseille: 0.95 / French / Arabic / Spain
+Lyon: 1.00 / French / English / Spain
+Toulouse: 0.90 / French / English / Spain
+Nice: 0.75 / French / Italian / Spain
+Nantes: 0.80 / French / English / Spain
+Montpellier: 0.70 / French / English / Spain
+Strasbourg: 0.60 / French / German / Spain
+Lille: 0.65 / French / English / Spain
+Tbilisi: -0.85 / Georgian / Russian / Russia
+Batumi: -0.70 / Georgian / Russian / Russia
+Kutaisi: -0.65 / Georgian / Russian / Russia
+Rustavi: -0.60 / Georgian / Russian / Russia
+Sokhumi: -0.55 / Georgian / Russian / Russia
+Iormughanlo: -0.50 / Georgian / Russian / Russia
+Gori: -0.45 / Georgian / Russian / Russia
+Poti: -0.40 / Georgian / Russian / Russia
+Berlin: 2.00 / German / Turkish / Turkey
+Stuttgart: 1.75 / German / Turkish / Turkey
+Munich: 1.90 / German / Turkish / Turkey
+Hamburg: 1.80 / German / Turkish / Turkey
+Cologne: 1.70 / German / Turkish / Turkey
+Frankfurt: 1.65 / German / Turkish / Turkey
+Dusseldorf: 1.60 / German / Turkish / Turkey
+Leipzig: 1.55 / German / Turkish / Turkey
+Dortmund: 1.50 / German / Turkish / Turkey
+Essen: 1.45 / German / Turkish / Turkey
+Bremen: 1.40 / German / Turkish / Turkey
+Dresden: 1.35 / German / Turkish / Turkey
+Hannover: 1.30 / German / Turkish / Turkey
+Nuremberg: 1.25 / German / Turkish / Turkey
+Duisburg: 1.20 / German / Turkish / Turkey
+Bochum: 1.15 / German / Turkish / Turkey
+Wuppertal: 1.10 / German / Turkish / Turkey
+Bielefeld: 1.05 / German / Turkish / Turkey
+Bonn: 1.00 / German / Turkish / Turkey
+Mannheim: 0.95 / German / Turkish / Turkey
+Augsburg: 0.90 / German / Turkish / Turkey
+Aachen: 0.85 / German / Turkish / Turkey
+Freiburg im Breisgau: 0.80 / German / Turkish / Turkey
+Heidelberg: 0.75 / German / Turkish / Turkey
+Erlangen: 0.70 / German / Turkish / Turkey
+Kumasi: -1.00 / English / Twi / United States
+Boankra: -0.95 / English / Twi / United States
+Accra: -1.20 / English / Twi / United States
+Tamale: -1.10 / English / Dagbani / United States
+Domaa-Ahenkro: -0.90 / English / Twi / United States
+Sekondi: -0.85 / English / Fante / United States
+Sunyani: -0.80 / English / Twi / United States
+Athens: -1.50 / Greek / English / Germany
+Thessaloniki: -1.20 / Greek / English / Germany
+Piraeus: -1.10 / Greek / English / Germany
+Irakleio: -1.00 / Greek / English / Germany
+Patra: -0.95 / Greek / English / Germany
+Larisa: -0.90 / Greek / English / Germany
+Peristeri: -0.85 / Greek / English / Germany
+Acharnes: -0.80 / Greek / English / Germany
+Guatemala City: -1.50 / Spanish / K'iche' / United States
+Mixco: -1.20 / Spanish / K'iche' / United States
+Villa Nueva: -1.10 / Spanish / K'iche' / United States
+San Juan Sacatepequez: -1.00 / Spanish / Kaqchikel / United States
+San Pedro Carcha: -0.95 / Spanish / Q'eqchi' / United States
+Coban: -0.90 / Spanish / Q'eqchi' / United States
+Quetzaltenango: -0.85 / Spanish / K'iche' / United States
+Hong Kong: 0.50 / Cantonese / English / United Kingdom
+Kowloon: 0.45 / Cantonese / English / United Kingdom
+Sha Tin: 0.40 / Cantonese / English / United Kingdom
+Kowloon City: 0.35 / Cantonese / English / United Kingdom
+Sham Shui Po: 0.30 / Cantonese / English / United Kingdom
+Tin Shui Wai: 0.25 / Cantonese / English / United Kingdom
+Central District: 0.20 / Cantonese / English / United Kingdom
+Budapest: 0.80 / Hungarian / English / Germany
+Debrecen: 0.70 / Hungarian / English / Germany
+Szekesfehervar: 0.60 / Hungarian / English / Germany
+Pecs: 0.50 / Hungarian / English / Germany
+Gyor: 0.55 / Hungarian / English / Germany
+Szeged: 0.45 / Hungarian / English / Germany
+Nyiregyhaza: 0.40 / Hungarian / English / Germany
+Kecskemet: 0.35 / Hungarian / English / Germany
+Szombathely: 0.30 / Hungarian / English / Germany
+Reykjavik: 1.00 / Icelandic / English / Denmark
+Kopavogur: 0.80 / Icelandic / English / Denmark
+Hafnarfjordhur: 0.70 / Icelandic / English / Denmark
+Akureyri: 0.60 / Icelandic / English / Denmark
+Gardhabaer: 0.50 / Icelandic / English / Denmark
+Selfoss: 0.40 / Icelandic / English / Denmark
+Isafjordhur: 0.30 / Icelandic / English / Denmark
+Delhi: -2.50 / Hindi / Punjabi / United States
+Mumbai: -2.20 / Marathi / Hindi / United States
+Kolkata: -2.00 / Bengali / Hindi / United States
+Bangalore: -1.80 / Kannada / English / United States
+Chennai: -1.60 / Tamil / English / United States
+Hyderabad: -1.50 / Telugu / Urdu / United States
+Pune: -1.40 / Marathi / Hindi / United States
+Ahmedabad: -1.30 / Gujarati / Hindi / United States
+Surat: -1.20 / Gujarati / Hindi / United States
+Lucknow: -1.10 / Hindi / Urdu / United States
+Jaipur: -1.00 / Hindi / English / United States
+Kanpur: -0.90 / Hindi / Urdu / United States
+Mirzapur: -0.80 / Hindi / Urdu / United States
+Nagpur: -0.70 / Marathi / Hindi / United States
+Ghaziabad: -0.60 / Hindi / Urdu / United States
+Supaul: -0.50 / Hindi / Maithili / United States
+Vadodara: -0.40 / Gujarati / Hindi / United States
+Chandigarh: -0.30 / Punjabi / Hindi / United States
+Coimbatore: -0.20 / Tamil / English / United States
+Gurgaon: -0.10 / Hindi / Punjabi / United States
+Kochi: -0.05 / Malayalam / English / United States
+Noida: -0.02 / Hindi / English / United States
+Bali: 0.10 / Balinese / Indonesian / Australia
+Jakarta: 0.50 / Indonesian / Javanese / Malaysia
+Surabaya: 0.45 / Indonesian / Javanese / Malaysia
+Medan: 0.40 / Indonesian / Batak / Malaysia
+Malang: 0.35 / Indonesian / Javanese / Malaysia
+Bekasi: 0.30 / Indonesian / Javanese / Malaysia
+Bekasi Kota: 0.25 / Indonesian / Javanese / Malaysia
+Tangerang: 0.20 / Indonesian / Sundanese / Malaysia
+Tehran: 1.50 / Persian / Azerbaijani / Germany
+Mashhad: 1.30 / Persian / Kurdish / Germany
+Khowrhesht: 1.10 / Persian / Kurdish / Germany
+Esfahan: 1.20 / Persian / Azerbaijani / Germany
+Karaj: 1.00 / Persian / Kurdish / Germany
+Shiraz: 0.90 / Persian / Luri / Germany
+Tabriz: 0.80 / Azerbaijani / Persian / Germany
+Baghdad: -2.00 / Arabic / Kurdish / Jordan
+Mosul: -1.80 / Arabic / Kurdish / Jordan
+Al Basrah: -1.60 / Arabic / Kurdish / Jordan
+Kirkuk: -1.40 / Arabic / Kurdish / Jordan
+As Sulaymaniyah: -1.20 / Kurdish / Arabic / Jordan
+Ar Ramadi: -1.00 / Arabic / Kurdish / Jordan
+Erbil: -1.00 / Kurdish / Arabic / Turkey
+Dublin: 0.50 / English / Irish / United Kingdom
+Finglas: 0.30 / English / Irish / United Kingdom
+Cork: 0.40 / English / Irish / United Kingdom
+Galway: 0.35 / English / Irish / United Kingdom
+Tallaght: 0.25 / English / Irish / United Kingdom
+Limerick: 0.20 / English / Irish / United Kingdom
+Lucan: 0.15 / English / Irish / United Kingdom
+Waterford: 0.10 / English / Irish / United Kingdom
+Clondalkin: 0.05 / English / Irish / United Kingdom
+Tel Aviv-Yafo: 1.00 / Hebrew / Arabic / United States
+Jerusalem: 0.90 / Hebrew / Arabic / United States
+Haifa: 0.85 / Hebrew / Arabic / United States
+Rishon LeZiyyon: 0.80 / Hebrew / Russian / United States
+Petah Tiqwa: 0.75 / Hebrew / Arabic / United States
+Ashdod: 0.70 / Hebrew / Russian / United States
+Netanya: 0.65 / Hebrew / Russian / United States
+Beersheba: 0.60 / Hebrew / Arabic / United States
+Holon: 0.55 / Hebrew / Russian / United States
+Rome: 0.90 / Italian / English / Germany
+Milan: 1.00 / Italian / English / Germany
+Naples: 0.80 / Italian / Neapolitan / Germany
+Turin: 0.85 / Italian / Piedmontese / Germany
+Genoa: 0.70 / Italian / Genoese / Germany
+Bologna: 0.75 / Italian / English / Germany
+Florence: 0.65 / Italian / English / Germany
+Bari: 0.60 / Italian / Barese / Germany
+Catania: 0.55 / Italian / Sicilian / Germany
+Verona: 0.50 / Italian / English / Germany
+Venice: 0.45 / Italian / Venetian / Germany
+Messina: 0.40 / Italian / Sicilian / Germany
+Padova: 0.35 / Italian / English / Germany
+Cosenza: 0.30 / Italian / Calabrian / Germany
+Parma: 0.25 / Italian / English / Germany
+Rimini: 0.20 / Italian / English / Germany
+Tokyo: 0.95 / Japanese / English / United States
+Osaka: 0.80 / Japanese / English / United States
+Nagoya: 0.75 / Japanese / English / United States
+Yokohama: 0.70 / Japanese / English / United States
+Fukuoka: 0.65 / Japanese / English / United States
+Sapporo: 0.60 / Japanese / English / United States
+Kawasaki: 0.55 / Japanese / English / United States
+Kobe: 0.50 / Japanese / English / United States
+Amman: -1.20 / Arabic / English / Saudi Arabia
+Al Mafraq: -1.10 / Arabic / English / Saudi Arabia
+Irbid: -1.05 / Arabic / English / Saudi Arabia
+Az Zarqa': -1.00 / Arabic / English / Saudi Arabia
+Ar Rusayfah: -0.95 / Arabic / English / Saudi Arabia
+Al Juwayyidah: -0.90 / Arabic / English / Saudi Arabia
+Sahab: -0.85 / Arabic / English / Saudi Arabia
+Almaty: 0.75 / Kazakh / Russian / Russia
+Shymkent: 0.70 / Kazakh / Russian / Russia
+Astana: 0.65 / Kazakh / Russian / Russia
+Qaraghandy: 0.60 / Kazakh / Russian / Russia
+Oskemen: 0.55 / Kazakh / Russian / Russia
+Aqtobe: 0.50 / Kazakh / Russian / Russia
+Taraz: 0.45 / Kazakh / Russian / Russia
+Nairobi: -1.50 / Swahili / English / United States
+Mombasa: -1.40 / Swahili / English / United States
+Nakuru: -1.30 / Swahili / English / United States
+Eldoret: -1.20 / Swahili / English / United States
+Kisumu: -1.10 / Swahili / English / United States
+Kikuyu: -1.00 / Swahili / English / United States
+Lunga-Lunga: -0.90 / Swahili / English / United States
+Seoul: 0.50 / Korean / English / United States
+Busan: 0.40 / Korean / English / United States
+Incheon: 0.35 / Korean / English / United States
+Daegu: 0.30 / Korean / English / United States
+Gwangju: 0.25 / Korean / English / United States
+Daejeon: 0.20 / Korean / English / United States
+Suwon: 0.15 / Korean / English / United States
+Prizren: -0.20 / Albanian / Serbian / Germany
+Pristina: -0.30 / Albanian / Serbian / Germany
+Ferizaj: -0.25 / Albanian / Serbian / Germany
+Peje: -0.15 / Albanian / Serbian / Germany
+Gjakove: -0.10 / Albanian / Serbian / Germany
+Gjilan: -0.05 / Albanian / Serbian / Germany
+Podujeve: -0.08 / Albanian / Serbian / Germany
+Kuwait City: 0.40 / Arabic / English / Saudi Arabia
+Al Jahra': 0.35 / Arabic / English / Saudi Arabia
+Abu Hulayfah: 0.30 / Arabic / English / Saudi Arabia
+Al Ahmadi: 0.25 / Arabic / English / Saudi Arabia
+Ar Riqqah: 0.20 / Arabic / English / Saudi Arabia
+Bishkek: -0.50 / Kyrgyz / Russian / Russia
+Osh: -0.45 / Kyrgyz / Russian / Russia
+Jalal-Abad: -0.40 / Kyrgyz / Russian / Russia
+Karakol: -0.35 / Kyrgyz / Russian / Russia
+Tokmok: -0.30 / Kyrgyz / Russian / Russia
+Kyzyl-Kyya: -0.25 / Kyrgyz / Russian / Russia
+Ozgon: -0.20 / Kyrgyz / Russian / Russia
+Riga: 0.30 / Latvian / Russian / United Kingdom
+Daugavpils: 0.25 / Latvian / Russian / United Kingdom
+Liepaja: 0.20 / Latvian / Russian / United Kingdom
+Jelgava: 0.15 / Latvian / Russian / United Kingdom
+Jurmala: 0.10 / Latvian / Russian / United Kingdom
+Ventspils: 0.05 / Latvian / Russian / United Kingdom
+Rezekne: 0.08 / Latvian / Russian / United Kingdom
+Beirut: -1.00 / Arabic / French / Saudi Arabia
+Barr Elias: -0.90 / Arabic / French / Saudi Arabia
+Sidon: -0.80 / Arabic / French / Saudi Arabia
+Borj Hammoud: -0.50 / Arabic / Armenian / Germany
+El Minie: -0.60 / Arabic / French / Germany
+Aaley: -0.55 / Arabic / French / Germany
+Jounie: -0.50 / Arabic / French / Germany
+Vilnius: 0.35 / Lithuanian / Russian / United Kingdom
+Kaunas: 0.30 / Lithuanian / Russian / United Kingdom
+Klaipeda: 0.25 / Lithuanian / Russian / United Kingdom
+Panevezys: 0.20 / Lithuanian / Russian / United Kingdom
+Siauliai: 0.15 / Lithuanian / Russian / United Kingdom
+Alytus: 0.10 / Lithuanian / Russian / United Kingdom
+Marijampole: 0.05 / Lithuanian / Russian / United Kingdom
+Mazeikiai: 0.08 / Lithuanian / Russian / United Kingdom
+Luxembourg: 0.50 / Luxembourgish / French / France
+Esch-sur-Alzette: 0.45 / Luxembourgish / French / France
+Dudelange: 0.40 / Luxembourgish / French / France
+Mersch: 0.35 / Luxembourgish / French / France
+Redange-sur-Attert: 0.30 / Luxembourgish / French / France
+Differdange: 0.25 / Luxembourgish / French / France
+Diekirch: 0.20 / Luxembourgish / French / France
+Kuala Lumpur: 1.00 / Malay / English / Singapore
+Seberang Jaya: 0.80 / Malay / English / Singapore
+Klang: 0.75 / Malay / English / Singapore
+Ipoh: 0.70 / Malay / English / Singapore
+George Town: 0.65 / Malay / English / Singapore
+Petaling Jaya: 0.60 / Malay / English / Singapore
+Kuantan: 0.55 / Malay / English / Singapore
+Valletta: 0.50 / Maltese / English / United Kingdom
+Qormi: 0.45 / Maltese / English / United Kingdom
+Birkirkara: 0.40 / Maltese / English / United Kingdom
+Saint Paul's Bay: 0.35 / Maltese / English / United Kingdom
+Mosta: 0.30 / Maltese / English / United Kingdom
+Sliema: 0.25 / Maltese / English / United Kingdom
+Santa Lucija: 0.20 / Maltese / English / United Kingdom
+Mexico City: -1.50 / Spanish / Nahuatl / United States
+Guadalajara: -1.20 / Spanish / English / United States
+Monterrey: -1.10 / Spanish / English / United States
+Tijuana: -1.00 / Spanish / English / United States
+Ecatepec: -0.95 / Spanish / English / United States
+Leon de los Aldama: -0.90 / Spanish / English / United States
+Puebla: -0.85 / Spanish / Nahuatl / United States
+Zapopan: -0.80 / Spanish / English / United States
+Juarez: -0.75 / Spanish / English / United States
+Chisinau: -0.60 / Romanian / Russian / Italy
+Tiraspol: -0.55 / Russian / Ukrainian / Italy
+Balti: -0.50 / Romanian / Russian / Italy
+Bender: -0.45 / Russian / Ukrainian / Italy
+Ribnita: -0.40 / Russian / Ukrainian / Italy
+Cocieri: -0.35 / Romanian / Russian / Italy
+Ungheni: -0.30 / Romanian / Russian / Italy
+Ulaanbaatar: -0.80 / Mongolian / Russian / South Korea
+Moron: -0.75 / Mongolian / Russian / South Korea
+Erdenet: -0.70 / Mongolian / Russian / South Korea
+Dalandzadgad: -0.65 / Mongolian / Russian / South Korea
+Darhan: -0.60 / Mongolian / Russian / South Korea
+Olgiy: -0.55 / Mongolian / Kazakh / South Korea
+Choybalsan: -0.50 / Mongolian / Russian / South Korea
+Podgorica: -0.40 / Montenegrin / Serbian / Germany
+Niksic: -0.35 / Montenegrin / Serbian / Germany
+Ulcinj: -0.30 / Montenegrin / Albanian / Germany
+Herceg Novi: -0.25 / Montenegrin / Serbian / Germany
+Pljevlja: -0.20 / Montenegrin / Serbian / Germany
+Budva: -0.15 / Montenegrin / Serbian / Germany
+Bar: -0.10 / Montenegrin / Serbian / Germany
+Plav: -0.05 / Montenegrin / Albanian / Germany
+Casablanca: -0.50 / Arabic / French / France
+Fes: -0.45 / Arabic / Berber / France
+Marrakech: -0.40 / Arabic / Berber / France
+Tangier: -0.35 / Arabic / French / France
+Sale: -0.30 / Arabic / French / France
+Rabat: -0.25 / Arabic / French / France
+Meknes: -0.20 / Arabic / Berber / France
+Oujda-Angad: -0.15 / Arabic / French / France
+Kenitra: -0.10 / Arabic / French / France
+Agadir: -0.05 / Arabic / Berber / France
+Kathmandu: -0.60 / Nepali / Maithili / India
+Bharatpur: -0.55 / Nepali / Bhojpuri / India
+Pokhara: -0.50 / Nepali / Gurung / India
+Jitpur: -0.45 / Nepali / Tharu / India
+Biratnagar: -0.40 / Nepali / Maithili / India
+Budhanilkantha: -0.35 / Nepali / Newar / India
+Ghorahi: -0.30 / Nepali / Tharu / India
+Tilburg: 0.50 / Dutch / English / Germany
+Amsterdam: 0.60 / Dutch / English / Germany
+Rotterdam: 0.55 / Dutch / English / Germany
+The Hague: 0.50 / Dutch / English / Germany
+Utrecht: 0.45 / Dutch / English / Germany
+Maastricht: 0.40 / Dutch / English / Germany
+Eindhoven: 0.35 / Dutch / English / Germany
+Groningen: 0.30 / Dutch / English / Germany
+Almere: 0.25 / Dutch / English / Germany
+Breda: 0.20 / Dutch / English / Germany
+Nijmegen: 0.15 / Dutch / English / Germany
+Arnhem: 0.10 / Dutch / English / Germany
+Haarlem: 0.05 / Dutch / English / Germany
+Delft: 0.08 / Dutch / English / Germany
+Auckland: 1.00 / English / Maori / Australia
+Christchurch: 0.95 / English / Maori / Australia
+Manukau City: 0.90 / English / Maori / Australia
+Wellington: 0.85 / English / Maori / Australia
+Northcote: 0.80 / English / Maori / Australia
+Tauranga: 0.75 / English / Maori / Australia
+Lower Hutt: 0.70 / English / Maori / Australia
+Dunedin: 0.65 / English / Maori / Australia
+Palmerston North: 0.60 / English / Maori / Australia
+Lagos: -0.50 / Yoruba / Hausa / United Kingdom
+Abuja: -0.45 / Hausa / Yoruba / United Kingdom
+Ibadan: -0.40 / Yoruba / English / United Kingdom
+Awka: -0.35 / Igbo / English / United Kingdom
+Kano: -0.30 / Hausa / Fulani / United Kingdom
+Port Harcourt: -0.25 / Igbo / English / United Kingdom
+Nneyi-Umuleri: -0.20 / Igbo / English / United Kingdom
+Skopje: -0.30 / Macedonian / Albanian / Germany
+Kumanovo: -0.25 / Macedonian / Albanian / Germany
+Bitola: -0.20 / Macedonian / Albanian / Germany
+Prilep: -0.15 / Macedonian / Albanian / Germany
+Tetovo: -0.10 / Albanian / Macedonian / Germany
+Stip: -0.05 / Macedonian / Albanian / Germany
+Veles: -0.03 / Macedonian / Albanian / Germany
+Oslo: 0.80 / Norwegian / English / Sweden
+Bergen: 0.75 / Norwegian / English / Sweden
+Sandnes: 0.70 / Norwegian / English / Sweden
+Stavanger: 0.65 / Norwegian / English / Sweden
+Trondheim: 0.60 / Norwegian / English / Sweden
+Kristiansand: 0.55 / Norwegian / English / Sweden
+Sandvika: 0.50 / Norwegian / English / Sweden
+Drammen: 0.45 / Norwegian / English / Sweden
+Fredrikstad: 0.40 / Norwegian / English / Sweden
+Asker: 0.35 / Norwegian / English / Sweden
+Masqat: 0.20 / Arabic / English / United Arab Emirates
+Muscat: 0.20 / Arabic / English / United Arab Emirates
+Bawshar: 0.15 / Arabic / English / United Arab Emirates
+Salalah: 0.10 / Arabic / English / United Arab Emirates
+As Sib: 0.10 / Arabic / English / United Arab Emirates
+Matrah: 0.05 / Arabic / English / United Arab Emirates
+Hayma': 0.05 / Arabic / English / United Arab Emirates
+Karachi: -0.30 / Urdu / English / United Arab Emirates
+Lahore: -0.25 / Punjabi / Urdu / United Arab Emirates
+Kotla Qasim Khan: -0.20 / Punjabi / Urdu / United Arab Emirates
+Faisalabad: -0.15 / Punjabi / Urdu / United Arab Emirates
+Rawalpindi: -0.10 / Punjabi / Urdu / United Arab Emirates
+Gujranwala: -0.05 / Punjabi / Urdu / United Arab Emirates
+Peshawar: -0.02 / Pashto / Urdu / United Arab Emirates
+Multan: -0.02 / Punjabi / Urdu / United Arab Emirates
+Islamabad: -0.02 / Urdu / English / United Arab Emirates
+Panama City: -0.50 / Spanish / English / United States
+San Miguelito: -0.45 / Spanish / English / United States
+Sieyik: -0.40 / Spanish / Ngäbere / United States
+Union Choco: -0.35 / Spanish / Embera / United States
+David: -0.30 / Spanish / Ngäbere / United States
+Tocumen: -0.25 / Spanish / English / United States
+La Chorrera: -0.20 / Spanish / English / United States
+Lima: -0.40 / Spanish / Quechua / United States
+Arequipa: -0.35 / Spanish / Quechua / United States
+Trujillo: -0.30 / Spanish / Quechua / United States
+Chiclayo: -0.25 / Spanish / Quechua / United States
+Piura: -0.20 / Spanish / Quechua / United States
+Cusco: -0.15 / Spanish / Quechua / United States
+Callao: -0.10 / Spanish / Quechua / United States
+Manila: -0.50 / Filipino / English / United States
+Quezon City: -0.45 / Filipino / English / United States
+Zamboanga City: -0.40 / Chavacano / Filipino / United States
+Davao: -0.35 / Cebuano / Filipino / United States
+Caloocan City: -0.30 / Filipino / English / United States
+Canagatan: -0.25 / Cebuano / Filipino / United States
+Cebu City: -0.20 / Cebuano / Filipino / United States
+Warsaw: -0.50 / Polish / English / Germany
+Krakow: -0.45 / Polish / English / Germany
+Wroclaw: -0.40 / Polish / English / Germany
+Lodz: -0.35 / Polish / English / Germany
+Poznan: -0.30 / Polish / English / Germany
+Gdansk: -0.25 / Polish / English / Germany
+Szczecin: -0.20 / Polish / English / Germany
+Bydgoszcz: -0.15 / Polish / English / Germany
+Lublin: -0.10 / Polish / English / Germany
+Bialystok: -0.05 / Polish / English / Germany
+Katowice: -0.03 / Polish / English / Germany
+Gdynia: -0.03 / Polish / English / Germany
+Zielona Gora: -0.02 / Polish / English / Germany
+Czestochowa: -0.02 / Polish / English / Germany
+Porto: -0.20 / Portuguese / English / France
+Lisbon: -0.15 / Portuguese / English / France
+Aves: -0.10 / Portuguese / English / France
+Sintra: -0.10 / Portuguese / English / France
+Vila Nova de Gaia: -0.05 / Portuguese / English / France
+Cascais: -0.05 / Portuguese / English / France
+Loures: -0.05 / Portuguese / English / France
+Seixal: -0.05 / Portuguese / English / France
+Braga: -0.05 / Portuguese / English / France
+Coimbra: -0.05 / Portuguese / English / France
+San Juan: -0.50 / Spanish / English / United States
+Aguadilla: -0.45 / Spanish / English / United States
+Bayamon: -0.40 / Spanish / English / United States
+Carolina: -0.35 / Spanish / English / United States
+Arecibo: -0.30 / Spanish / English / United States
+Ponce: -0.25 / Spanish / English / United States
+San German: -0.20 / Spanish / English / United States
+Doha: 0.30 / Arabic / English / India
+Ar Rayyan: 0.25 / Arabic / English / India
+Az Za`ayin: 0.20 / Arabic / English / India
+Madinat ash Shamal: 0.15 / Arabic / English / India
+Umm Salal `Ali: 0.30 / Arabic / English / India
+Laqtah: 0.25 / Arabic / English / India
+Ash Shihaniyah: 0.20 / Arabic / English / India
+Bucharest: -0.50 / Romanian / Hungarian / Germany
+Cluj-Napoca: -0.45 / Romanian / Hungarian / Germany
+Iasi: -0.40 / Romanian / Russian / Germany
+Constanta: -0.35 / Romanian / Russian / Germany
+Timisoara: -0.30 / Romanian / Hungarian / Germany
+Brasov: -0.25 / Romanian / Hungarian / Germany
+Craiova: -0.20 / Romanian / Bulgarian / Germany
+Galati: -0.15 / Romanian / Russian / Germany
+Oradea: -0.10 / Romanian / Hungarian / Germany
+Ploiesti: -0.05 / Romanian / Russian / Germany
+Braila: -0.03 / Romanian / Russian / Germany
+Arad: -0.03 / Romanian / Hungarian / Germany
+Sibiu: -0.03 / Romanian / German / Germany
+Moscow: -0.50 / Russian / English / Germany
+Saint Petersburg: -0.45 / Russian / English / Germany
+Novosibirsk: -0.40 / Russian / English / Germany
+Yekaterinburg: -0.35 / Russian / English / Germany
+Kazan: -0.30 / Russian / Tatar / Germany
+Nizhniy Novgorod: -0.25 / Russian / English / Germany
+Chelyabinsk: -0.20 / Russian / English / Germany
+Omsk: -0.15 / Russian / English / Germany
+Samara: -0.10 / Russian / English / Germany
+Rostov: -0.05 / Russian / Ukrainian / Germany
+Ufa: -0.03 / Russian / Bashkir / Germany
+Krasnoyarsk: -0.03 / Russian / English / Germany
+Voronezh: -0.03 / Russian / Ukrainian / Germany
+Perm: -0.03 / Russian / English / Germany
+Volgograd: -0.03 / Russian / Ukrainian / Germany
+Krasnodar: -0.03 / Russian / Ukrainian / Germany
+Vladivostok: -0.03 / Russian / English / Germany
+Kaliningrad: -0.03 / Russian / German / Germany
+Kigali: 0.20 / Kinyarwanda / French / Uganda
+Muhanga: 0.15 / Kinyarwanda / French / Uganda
+Gitarama: 0.10 / Kinyarwanda / French / Uganda
+Kabarore: 0.05 / Kinyarwanda / French / Uganda
+Cyuve: 0.05 / Kinyarwanda / French / Uganda
+Ruhengeri: 0.05 / Kinyarwanda / French / Uganda
+Gisenyi: 0.05 / Kinyarwanda / French / Uganda
+Riyadh: 0.40 / Arabic / English / Egypt
+Jeddah: 0.35 / Arabic / English / Egypt
+Mecca: 0.30 / Arabic / English / Egypt
+Medina: 0.25 / Arabic / English / Egypt
+Ad Dammam: 0.20 / Arabic / English / Egypt
+Tabuk: 0.15 / Arabic / English / Egypt
+Al Hufuf: 0.10 / Arabic / English / Egypt
+Belgrade: -0.40 / Serbian / Hungarian / Germany
+Novi Sad: -0.35 / Serbian / Hungarian / Germany
+Nis: -0.30 / Serbian / Albanian / Germany
+Zemun: -0.25 / Serbian / Hungarian / Germany
+Kragujevac: -0.20 / Serbian / Hungarian / Germany
+Sabac: -0.15 / Serbian / Hungarian / Germany
+Smederevo: -0.10 / Serbian / Hungarian / Germany
+Valjevo: -0.05 / Serbian / Hungarian / Germany
+Loznica: -0.03 / Serbian / Hungarian / Germany
+Singapore: 1.50 / English / Chinese / Malaysia
+Bratislava: -0.50 / Slovak / Hungarian / Austria
+Kosice: -0.45 / Slovak / Hungarian / Austria
+Petrzalka: -0.40 / Slovak / Hungarian / Austria
+Zilina: -0.35 / Slovak / Czech / Austria
+Presov: -0.30 / Slovak / Ukrainian / Austria
+Nitra: -0.25 / Slovak / Hungarian / Austria
+Banska Bystrica: -0.20 / Slovak / Hungarian / Austria
+Trnava: -0.15 / Slovak / Hungarian / Austria
+Ljubljana: -0.40 / Slovenian / English / Austria
+Maribor: -0.35 / Slovenian / German / Austria
+Celje: -0.30 / Slovenian / German / Austria
+Kranj: -0.25 / Slovenian / German / Austria
+Koper: -0.20 / Slovenian / Italian / Austria
+Velenje: -0.15 / Slovenian / German / Austria
+Novo Mesto: -0.10 / Slovenian / German / Austria
+Johannesburg: -0.50 / Zulu / English / United Kingdom
+Cape Town: -0.45 / Afrikaans / English / United Kingdom
+Soweto: -0.40 / Zulu / English / United Kingdom
+Gqeberha: -0.35 / Xhosa / English / United Kingdom
+Pietermaritzburg: -0.30 / Zulu / English / United Kingdom
+Durban: -0.25 / Zulu / English / United Kingdom
+Pretoria: -0.20 / Afrikaans / English / United Kingdom
+Rustenburg: -0.15 / Tswana / Afrikaans / United Kingdom
+Newcastle: -0.10 / Zulu / English / United Kingdom
+East London: -0.05 / Xhosa / English / United Kingdom
+Madrid: -0.50 / Spanish / English / France
+Barcelona: -0.45 / Spanish / Catalan / France
+Valencia: -0.40 / Spanish / Catalan / France
+Sevilla: -0.35 / Spanish / English / France
+Malaga: -0.30 / Spanish / English / France
+Bilbao: -0.25 / Spanish / Basque / France
+Zaragoza: -0.20 / Spanish / English / France
+Murcia: -0.15 / Spanish / English / France
+Las Palmas: -0.10 / Spanish / English / France
+Palma: -0.05 / Spanish / Catalan / France
+Alicante: -0.03 / Spanish / Catalan / France
+Valladolid: -0.03 / Spanish / English / France
+Vigo: -0.03 / Spanish / Galician / France
+Colombo: -0.50 / Sinhalese / Tamil / Italy
+Mount Lavinia: -0.45 / Sinhalese / Tamil / Italy
+Kesbewa: -0.40 / Sinhalese / Tamil / Italy
+Maharagama: -0.35 / Sinhalese / Tamil / Italy
+Moratuwa: -0.45 / Sinhalese / Tamil / Italy
+Ratnapura: -0.40 / Sinhalese / Tamil / Italy
+Negombo: -0.35 / Sinhalese / Tamil / Italy
+Stockholm: 0.50 / Swedish / English / Finland
+Gothenburg: 0.45 / Swedish / English / Finland
+Malmo: 0.40 / Swedish / Danish / Finland
+Uppsala: 0.35 / Swedish / English / Finland
+Norrkoping: 0.30 / Swedish / English / Finland
+Vasteras: 0.25 / Swedish / English / Finland
+Orebro: 0.20 / Swedish / English / Finland
+Linkoping: 0.15 / Swedish / English / Finland
+Boras: 0.10 / Swedish / English / Finland
+Helsingborg: 0.05 / Swedish / Danish / Finland
+Zurich: 0.50 / German / English / Germany
+Geneva: 0.45 / French / English / France
+Basel: 0.40 / German / English / Germany
+Lausanne: 0.35 / French / English / France
+Bern: 0.30 / German / English / Germany
+Winterthur: 0.25 / German / English / Germany
+Lucerne: 0.20 / German / English / Germany
+Sankt Gallen: 0.15 / German / English / Germany
+Lugano: 0.10 / Italian / English / Italy
+Biel/Bienne: 0.05 / German / French / Germany
+Bellinzona: 0.03 / Italian / German / Italy
+Taichung: 1.50 / Mandarin / Hakka / China
+Kaohsiung: 1.45 / Mandarin / Hakka / China
+Taipei: 1.40 / Mandarin / Hakka / China
+Tainan: 1.35 / Mandarin / Hakka / China
+Zhongli: 1.30 / Mandarin / Hakka / China
+Hsinchu: 1.25 / Mandarin / Hakka / China
+Taoyuan District: 1.20 / Mandarin / Hakka / China
+Keelung: 1.15 / Mandarin / Hakka / China
+Chiayi: 1.10 / Mandarin / Hakka / China
+Bangkok: 0.50 / Thai / English / China
+Chiang Mai: 0.45 / Thai / English / China
+Nakhon Ratchasima: 0.40 / Thai / English / China
+Khon Kaen: 0.35 / Thai / English / China
+Hat Yai: 0.30 / Thai / English / China
+Chon Buri: 0.25 / Thai / English / China
+Phatthaya: 0.20 / Thai / English / China
+Si Racha: 0.15 / Thai / English / China
+Phuket: 0.10 / Thai / English / China
+Chaguanas: 0.05 / English / Hindi / United States
+Port of Spain: 0.03 / English / Hindi / United States
+Arima: 0.03 / English / Hindi / United States
+Couva: 0.03 / English / Hindi / United States
+Aranguez: 0.03 / English / Hindi / United States
+Point Fortin: 0.03 / English / Hindi / United States
+Princes Town: 0.03 / English / Hindi / United States
+Tunis: 0.40 / Arabic / French / Italy
+Sidi Bouzid: 0.35 / Arabic / French / Italy
+Sfax: 0.30 / Arabic / French / Italy
+Sousse: 0.25 / Arabic / French / Italy
+Kairouan: 0.20 / Arabic / French / Italy
+Metouia: 0.15 / Arabic / French / Italy
+Kebili: 0.10 / Arabic / French / Italy
+Istanbul: 0.50 / Turkish / Kurdish / Germany
+Ankara: 0.45 / Turkish / Kurdish / Germany
+Izmir: 0.40 / Turkish / Kurdish / Germany
+Bursa: 0.35 / Turkish / Kurdish / Germany
+Konya: 0.30 / Turkish / Kurdish / Germany
+Mersin: 0.25 / Turkish / Kurdish / Germany
+Adana: 0.20 / Turkish / Kurdish / Germany
+Diyarbakir: 0.15 / Turkish / Kurdish / Germany
+Kayseri: 0.10 / Turkish / Kurdish / Germany
+Samsun: 0.05 / Turkish / Kurdish / Germany
+Antalya: 0.03 / Turkish / Kurdish / Germany
+Kyiv: 0.50 / Ukrainian / Russian / Russia
+Kharkiv: 0.45 / Ukrainian / Russian / Russia
+Odesa: 0.40 / Ukrainian / Russian / Russia
+Dnipro: 0.35 / Ukrainian / Russian / Russia
+Donetsk: 0.30 / Ukrainian / Russian / Russia
+Lviv: 0.25 / Ukrainian / Russian / Russia
+Zaporizhzhia: 0.20 / Ukrainian / Russian / Russia
+Bazal'tove: 0.15 / Ukrainian / Russian / Russia
+Kryvyi Rih: 0.10 / Ukrainian / Russian / Russia
+Dubai: 1.50 / Arabic / English / India
+Abu Dhabi: 1.45 / Arabic / English / India
+Sharjah: 1.40 / Arabic / English / India
+Al Ayn: 1.35 / Arabic / English / India Ajman: 1.30 / Arabic / English / India
+Ra's al Khaymah: 1.25 / Arabic / English / India
+Al Fujayrah: 1.20 / Arabic / English / India
+Umm al Qaywayn: 1.15 / Arabic / English / India
+Kalba: 1.10 / Arabic / English / India
+London: 0.50 / English / French / United States
+Birmingham: 0.45 / English / French / United States
+Portsmouth: 0.40 / English / French / United States
+Southampton: 0.35 / English / French / United States
+Leeds: 0.30 / English / French / United States
+Nottingham: 0.25 / English / French / United States
+Bristol: 0.20 / English / French / United States
+Glasgow: 0.15 / English / French / United States
+Manchester: 0.10 / English / French / United States
+Sheffield: 0.05 / English / French / United States
+Liverpool: 0.03 / English / French / United States
+Leicester: 0.03 / English / French / United States
+Caerdydd: 0.03 / Welsh / English / United States
+Edinburgh: 0.03 / English / French / United States
+Worthing: 0.03 / English / French / United States
+
+Stoke-on-Trent: 0.03 / English / Polish / Australia
+Coventry: 0.03 / English / Polish / Australia
+Belfast: 0.03 / English / Polish / Australia
+Aberdeen: 0.03 / English / Polish / Australia
+Oxford: 0.03 / English / Polish / Australia
+Brighton: 0.03 / English / Polish / Australia
+New York: 0.50 / English / Spanish / Canada
+Los Angeles: 0.45 / English / Spanish / Canada
+Chicago: 0.40 / English / Spanish / Canada
+Miami: 0.35 / English / Spanish / Canada
+Houston: 0.30 / English / Spanish / Canada
+Dallas: 0.25 / English / Spanish / Canada
+Philadelphia: 0.20 / English / Spanish / Canada
+Atlanta: 0.15 / English / Spanish / Canada
+Washington: 0.10 / English / Spanish / Canada
+Boston: 0.05 / English / Spanish / Canada
+Phoenix: 0.03 / English / Spanish / Canada
+Detroit: 0.03 / English / Spanish / Canada
+Seattle: 0.03 / English / Spanish / Canada
+San Francisco: 0.03 / English / Spanish / Canada
+San Diego: 0.03 / English / Spanish / Canada
+Minneapolis: 0.03 / English / Spanish / Canada
+Tampa: 0.03 / English / Spanish / Canada
+Brooklyn: 0.03 / English / Spanish / Canada
+Denver: 0.03 / English / Spanish / Canada
+Queens: 0.03 / English / Spanish / Canada
+Riverside: 0.03 / English / Spanish / Canada
+Las Vegas: 0.03 / English / Spanish / Canada
+Baltimore: 0.03 / English / Spanish / Canada
+St. Louis: 0.03 / English / Spanish / Canada
+Portland: 0.03 / English / Spanish / Canada
+San Antonio: 0.03 / English / Spanish / Canada
+Sacramento: 0.03 / English / Spanish / Canada
+Austin: 0.03 / English / Spanish / Canada
+Orlando: 0.03 / English / Spanish / Canada
+San Jose: 0.03 / English / Spanish / Canada
+Pittsburgh: 0.03 / English / Spanish / Canada
+Indianapolis: 0.03 / English / Spanish / Canada
+Manhattan: 0.03 / English / Spanish / Canada
+Cincinnati: 0.03 / English / Spanish / Canada
+Kansas City: 0.03 / English / Spanish / Canada
+Cleveland: 0.03 / English / Spanish / Canada
+Columbus: 0.03 / English / Spanish / Canada
+Charlotte: 0.03 / English / Spanish / Canada
+Milwaukee: 0.03 / English / Spanish / Canada
+Jacksonville: 0.03 / English / Spanish / Canada
+Nashville: 0.03 / English / Spanish / Canada
+Salt Lake City: 0.03 / English / Spanish / Canada
+Raleigh: 0.03 / English / Spanish / Canada
+Memphis: 0.03 / English / Spanish / Canada
+Oklahoma City: 0.03 / English / Spanish / Canada
+Louisville: 0.03 / English / Spanish / Canada
+New Orleans: 0.03 / English / Spanish / Canada
+Fort Worth: 0.03 / English / Spanish / Canada
+Tucson: 0.03 / English / Spanish / Canada
+Omaha: 0.03 / English / Spanish / Canada
+Albuquerque: 0.03 / English / Spanish / Canada
+Tulsa: 0.03 / English / Spanish / Canada
+Colorado Springs: 0.03 / English / Spanish / Canada
+Reno: 0.03 / English / Spanish / Canada
+Spokane: 0.03 / English / Spanish / Canada
+Madison: 0.03 / English / Spanish / Canada
+Boise: 0.03 / English / Spanish / Canada
+Oakland: 0.03 / English / Spanish / Canada
+Honolulu: 0.03 / English / Spanish / Canada
+Ann Arbor: 0.03 / English / Spanish / Canada
+Irvine: 0.03 / English / Spanish / Canada
+Anchorage: 0.03 / English / Spanish / Canada
+Fort Lauderdale: 0.03 / English / Spanish / Canada
+Hanover: 0.03 / English / Spanish / Canada
+Montevideo: 0.50 / Spanish / Italian / Argentina
+Maldonado: 0.45 / Spanish / Italian / Argentina
+Ciudad de la Costa: 0.40 / Spanish / Italian / Argentina
+Paysandu: 0.35 / Spanish / Italian / Argentina
+Las Piedras: 0.30 / Spanish / Italian / Argentina
+Rivera: 0.25 / Spanish / Italian / Argentina
+Tacuarembo: 0.20 / Spanish / Italian / Argentina
+Tashkent: 0.50 / Uzbek / Russian / Russia
+Namangan: 0.45 / Uzbek / Russian / Russia
+Andijon: 0.40 / Uzbek / Russian / Russia
+Samarkand: 0.35 / Uzbek / Russian / Russia
+Nukus: 0.30 / Uzbek / Russian / Russia
+Farg`ona: 0.25 / Uzbek / Russian / Russia
+Bukhara: 0.20 / Uzbek / Russian / Russia
+Caracas: 0.50 / Spanish / English / United States
+Maracaibo: 0.45 / Spanish / English / United States
+Barquisimeto: 0.40 / Spanish / English / United States
+San Cristobal: 0.35 / Spanish / English / United States
+Barinas: 0.30 / Spanish / English / United States
+Ciudad Guayana: 0.25 / Spanish / English / United States
+Catia La Mar: 0.20 / Spanish / English / United States
+Ho Chi Minh City: 0.50 / Vietnamese / English / United States
+Hanoi: 0.45 / Vietnamese / English / United States
+Haiphong: 0.40 / Vietnamese / English / United States
+Can Tho: 0.35 / Vietnamese / English / United States
+Bien Hoa: 0.30 / Vietnamese / English / United States
+Thu Duc: 0.25 / Vietnamese / English / United States
+Quang Ha: 0.20 / Vietnamese / English / United States
+Hue: 0.15 / Vietnamese / English / United States
+Harare: 0.50 / Shona / English / South Africa
+Masvingo: 0.45 / Shona / English / South Africa
+Bulawayo: 0.40 / Shona / English / South Africa
+Chitungwiza: 0.35 / Shona / English / South Africa
+Mutare: 0.30 / Shona / English / South Africa
+Lupane: 0.03 / Ndebele / Shona / Zimbabwe
+Gweru: 0.03 / Shona / Ndebele / Zimbabwe
