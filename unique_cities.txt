@@ -1,1005 +1,371 @@
-Tirana
-Durres
-Vlore
-Kamez
-Fier
-Shkoder
-Elbasan
-Algiers
-Constantine
-Batna
-Setif
-Djelfa
-Annaba
-Sidi Aissa
-Buenos Aires
-Cordoba
-Rosario
-Santiago del Estero
-Comodoro Rivadavia
-Mar del Plata
-San Miguel de Tucuman
-Yerevan
-Gyumri
-Vanadzor
-Ejmiatsin
-Hrazdan
-Abovyan
-Kapan
-Melbourne
-Sydney
-Brisbane
-Perth
-Adelaide
-Gold Coast
-Cranbourne
-Canberra
-Central Coast
-Wollongong
-Ipswich
-Hobart
-Vienna
-Graz
-Linz
-Lochau
-Salzburg
-Innsbruck
-Klagenfurt
-Villach
-Wels
-Sankt Polten
-Baku
-Sumqayit
-Ganca
-Agcabadi
-Mingacevir
-Xirdalan
-Naxcivan
-Manama
-Al Muharraq
-Madinat Hamad
-Jidd Hafs
-Madinat `Isa
-Sitrah
-Ad Diraz
-Dhaka
-Chattogram
-Gazipura
-Rajshahi
-Khulna
-Rangapukur
-Narayanganj
-Minsk
-Homyel'
-Vitsyebsk
-Hrodna
-Mahilyow
-Brest
-Babruysk
-Brussels
-Antwerp
-Gent
-Charleroi
-Liege
-Schaarbeek
-Anderlecht
-Bruges
-Namur
-Sarajevo
-Banja Luka
-Bijeljina
-Mostar
-Prijedor
-Zenica
-Doboj
-Ilidza
-Sao Paulo
-Rio de Janeiro
-Belo Horizonte
-Fortaleza
-Brasilia
-Salvador
-Manaus
-Santos
-Curitiba
-Recife
-Goiania
-Porto Alegre
-Guarulhos
-Florianopolis
-Sofia
-Varna
-Plovdiv
-Burgas
-Ruse
-Stara Zagora
-Pleven
-Sliven
-Pernik
-Pazardzhik
-Phnom Penh
-Siem Reap
-Battambang
-Pailin
-Ta Khmau
-Kampong Cham
-Sisophon
-Douala
-Yaounde
-Bamenda
-Bafoussam
-Garoua
-Maroua
-Ngaoundere
-Toronto
-Montreal
-Vancouver
-Calgary
-Edmonton
-Ottawa
-Winnipeg
-Quebec City
-Hamilton
-Mississauga
-Brampton
-Surrey
-Kitchener
-Halifax
-Laval
-Victoria
-Markham
-Oshawa
-Saskatoon
-Cambridge
-Santiago
-Concepcion
-Puente Alto
-Maipu
-La Florida
-Antofagasta
-Vina del Mar
-Guangzhou
-Shanghai
-Beijing
-Shenzhen
-Chengdu
-Xi'an
-Chongqing
-Baoding
-Linyi
-Dongguan
-Tianjin
-Wuhan
-Hangzhou
-Nanjing
-Suzhou
-Bogota
-Medellin
-Cali
-Barranquilla
-Cartagena
-Bucaramanga
-Cucuta
-Palermo
-Soledad
-Zagreb
-Split
-Rijeka
-Osijek
-Sesvete
-Zadar
-Velika Gorica
-Pula
-Karlovac
-Slavonski Brod
-Nicosia
-Limassol
-Larnaca
-Paphos
-Famagusta
-Kyrenia
-Kato Polemidia
-Aradippou
-Latsia
-Prague
-Brno
-Ostrava
-Plzen
-Liberec
-Olomouc
-Ceske Budejovice
-Hradec Kralove
-Pardubice
-Usti nad Labem
-Copenhagen
-Aarhus
-Odense
-Aalborg
-Esbjerg
-Randers
-Horsens
-Kolding
-Santo Domingo
-Santo Domingo Este
-Puerto Plata
-Los Alcarrizos
-Higuey
-La Vega
-San Pedro de Macoris
-Guayaquil
-Quito
-Cuenca
-Santo Domingo de los Colorados
-Eloy Alfaro
-Machala
-Manta
-Cairo
-Giza
-Alexandria
-Shubra al Khaymah
-Ashmun
-Sinnuris
-Dayrut
-Tukh
-Tallinn
-Tartu
-Narva
-Parnu
-Kohtla-Jarve
-Viljandi
-Maardu
-Rakvere
-Addis Ababa
-Erer Sata
-Shashemene
-K'ebri Dehar
-Nazret
-Mekele
-Gode
-Helsinki
-Tampere
-Espoo
-Turku
-Vantaa
-Oulu
-Jyvaskyla
-Kuopio
-Lahti
-Kouvola
-Paris
-Bordeaux
-Marseille
-Lyon
-Toulouse
-Nice
-Nantes
-Montpellier
-Strasbourg
-Lille
-Tbilisi
-Batumi
-Kutaisi
-Rustavi
-Sokhumi
-Iormughanlo
-Gori
-Poti
-Berlin
-Stuttgart
-Munich
-Hamburg
-Cologne
-Frankfurt
-Dusseldorf
-Leipzig
-Dortmund
-Essen
-Bremen
-Dresden
-Hannover
-Nuremberg
-Duisburg
-Bochum
-Wuppertal
-Bielefeld
-Bonn
-Mannheim
-Augsburg
 Aachen
-Freiburg im Breisgau
-Heidelberg
-Erlangen
-Kumasi
-Boankra
-Accra
-Tamale
-Domaa-Ahenkro
-Sekondi
-Sunyani
-Athens
-Thessaloniki
-Piraeus
-Irakleio
-Patra
-Larisa
-Peristeri
-Acharnes
-Guatemala City
-Mixco
-Villa Nueva
-San Juan Sacatepequez
-San Pedro Carcha
-Coban
-Quetzaltenango
-Hong Kong
-Kowloon
-Sha Tin
-Kowloon City
-Sham Shui Po
-Tin Shui Wai
-Central District
-Budapest
-Debrecen
-Szekesfehervar
-Pecs
-Gyor
-Szeged
-Nyiregyhaza
-Kecskemet
-Szombathely
-Reykjavik
-Kopavogur
-Hafnarfjordhur
-Akureyri
-Gardhabaer
-Selfoss
-Isafjordhur
-Delhi
-Mumbai
-Kolkata
-Bangalore
-Chennai
-Hyderabad
-Pune
-Ahmedabad
-Surat
-Lucknow
-Jaipur
-Kanpur
-Mirzapur
-Nagpur
-Ghaziabad
-Supaul
-Vadodara
-Chandigarh
-Coimbatore
-Gurgaon
-Kochi
-Noida
-Bali
-Jakarta
-Surabaya
-Medan
-Malang
-Bekasi
-Bekasi Kota
-Tangerang
-Tehran
-Mashhad
-Khowrhesht
-Esfahan
-Karaj
-Shiraz
-Tabriz
-Baghdad
-Mosul
-Al Basrah
-Kirkuk
-As Sulaymaniyah
-Ar Ramadi
-Erbil
-Dublin
-Finglas
-Cork
-Galway
-Tallaght
-Limerick
-Lucan
-Waterford
-Clondalkin
-Tel Aviv-Yafo
-Jerusalem
-Haifa
-Rishon LeZiyyon
-Petah Tiqwa
-Ashdod
-Netanya
-Beersheba
-Holon
-Rome
-Milan
-Naples
-Turin
-Genoa
-Bologna
-Florence
-Bari
-Catania
-Verona
-Venice
-Messina
-Padova
-Cosenza
-Parma
-Rimini
-Tokyo
-Osaka
-Nagoya
-Yokohama
-Fukuoka
-Sapporo
-Kawasaki
-Kobe
-Amman
-Al Mafraq
-Irbid
-Az Zarqa'
-Ar Rusayfah
-Al Juwayyidah
-Sahab
-Almaty
-Shymkent
-Astana
-Qaraghandy
-Oskemen
-Aqtobe
-Taraz
-Nairobi
-Mombasa
-Nakuru
-Eldoret
-Kisumu
-Kikuyu
-Lunga-Lunga
-Seoul
-Busan
-Incheon
-Daegu
-Gwangju
-Daejeon
-Suwon
-Prizren
-Pristina
-Ferizaj
-Peje
-Gjakove
-Gjilan
-Podujeve
-Kuwait City
-Al Jahra'
-Abu Hulayfah
-Al Ahmadi
-Ar Riqqah
-Bishkek
-Osh
-Jalal-Abad
-Karakol
-Tokmok
-Kyzyl-Kyya
-Ozgon
-Riga
-Daugavpils
-Liepaja
-Jelgava
-Jurmala
-Ventspils
-Rezekne
-Beirut
-Barr Elias
-Sidon
-Borj Hammoud
-El Minie
-Aaley
-Jounie
-Vilnius
-Kaunas
-Klaipeda
-Panevezys
-Siauliai
-Alytus
-Marijampole
-Mazeikiai
-Luxembourg
-Esch-sur-Alzette
-Dudelange
-Mersch
-Redange-sur-Attert
-Differdange
-Diekirch
-Kuala Lumpur
-Seberang Jaya
-Klang
-Ipoh
-George Town
-Petaling Jaya
-Kuantan
-Valletta
-Qormi
-Birkirkara
-Saint Paul's Bay
-Mosta
-Sliema
-Santa Lucija
-Mexico City
-Guadalajara
-Monterrey
-Tijuana
-Ecatepec
-Leon de los Aldama
-Puebla
-Zapopan
-Juarez
-Chisinau
-Tiraspol
-Balti
-Bender
-Ribnita
-Cocieri
-Ungheni
-Ulaanbaatar
-Moron
-Erdenet
-Dalandzadgad
-Darhan
-Olgiy
-Choybalsan
-Podgorica
-Niksic
-Ulcinj
-Herceg Novi
-Pljevlja
-Budva
-Bar
-Plav
-Casablanca
-Fes
-Marrakech
-Tangier
-Sale
-Rabat
-Meknes
-Oujda-Angad
-Kenitra
-Agadir
-Kathmandu
-Bharatpur
-Pokhara
-Jitpur
-Biratnagar
-Budhanilkantha
-Ghorahi
-Tilburg
-Amsterdam
-Rotterdam
-The Hague
-Utrecht
-Maastricht
-Eindhoven
-Groningen
-Almere
-Breda
-Nijmegen
-Arnhem
-Haarlem
-Delft
-Auckland
-Christchurch
-Manukau City
-Wellington
-Northcote
-Tauranga
-Lower Hutt
-Dunedin
-Palmerston North
-Lagos
-Abuja
-Ibadan
-Awka
-Kano
-Port Harcourt
-Nneyi-Umuleri
-Skopje
-Kumanovo
-Bitola
-Prilep
-Tetovo
-Stip
-Veles
-Oslo
-Bergen
-Sandnes
-Stavanger
-Trondheim
-Kristiansand
-Sandvika
-Drammen
-Fredrikstad
-Asker
-Masqat
-Muscat
-Bawshar
-Salalah
-As Sib
-Matrah
-Hayma'
-Karachi
-Lahore
-Kotla Qasim Khan
-Faisalabad
-Rawalpindi
-Gujranwala
-Peshawar
-Multan
-Islamabad
-Panama City
-San Miguelito
-Sieyik
-Union Choco
-David
-Tocumen
-La Chorrera
-Lima
-Arequipa
-Trujillo
-Chiclayo
-Piura
-Cusco
-Callao
-Manila
-Quezon City
-Zamboanga City
-Davao
-Caloocan City
-Canagatan
-Cebu City
-Warsaw
-Krakow
-Wroclaw
-Lodz
-Poznan
-Gdansk
-Szczecin
-Bydgoszcz
-Lublin
-Bialystok
-Katowice
-Gdynia
-Zielona Gora
-Czestochowa
-Porto
-Lisbon
-Aves
-Sintra
-Vila Nova de Gaia
-Cascais
-Loures
-Seixal
-Braga
-Coimbra
-San Juan
-Aguadilla
-Bayamon
-Carolina
-Arecibo
-Ponce
-San German
-Doha
-Ar Rayyan
-Az Za`ayin
-Madinat ash Shamal
-Umm Salal `Ali
-Laqtah
-Ash Shihaniyah
-Bucharest
-Cluj-Napoca
-Iasi
-Constanta
-Timisoara
-Brasov
-Craiova
-Galati
-Oradea
-Ploiesti
-Braila
-Arad
-Sibiu
-Moscow
-Saint Petersburg
-Novosibirsk
-Yekaterinburg
-Kazan
-Nizhniy Novgorod
-Chelyabinsk
-Omsk
-Samara
-Rostov
-Ufa
-Krasnoyarsk
-Voronezh
-Perm
-Volgograd
-Krasnodar
-Vladivostok
-Kaliningrad
-Kigali
-Muhanga
-Gitarama
-Kabarore
-Cyuve
-Ruhengeri
-Gisenyi
-Riyadh
-Jeddah
-Mecca
-Medina
-Ad Dammam
-Tabuk
-Al Hufuf
-Belgrade
-Novi Sad
-Nis
-Zemun
-Kragujevac
-Sabac
-Smederevo
-Valjevo
-Loznica
-Singapore
-Bratislava
-Kosice
-Petrzalka
-Zilina
-Presov
-Nitra
-Banska Bystrica
-Trnava
-Ljubljana
-Maribor
-Celje
-Kranj
-Koper
-Velenje
-Novo Mesto
-Johannesburg
-Cape Town
-Soweto
-Gqeberha
-Pietermaritzburg
-Durban
-Pretoria
-Rustenburg
-Newcastle
-East London
-Madrid
-Barcelona
-Valencia
-Sevilla
-Malaga
-Bilbao
-Zaragoza
-Murcia
-Las Palmas
-Palma
-Alicante
-Valladolid
-Vigo
-Colombo
-Mount Lavinia
-Kesbewa
-Maharagama
-Moratuwa
-Ratnapura
-Negombo
-Stockholm
-Gothenburg
-Malmo
-Uppsala
-Norrkoping
-Vasteras
-Orebro
-Linkoping
-Boras
-Helsingborg
-Zurich
-Geneva
-Basel
-Lausanne
-Bern
-Winterthur
-Lucerne
-Sankt Gallen
-Lugano
-Biel/Bienne
-Bellinzona
-Taichung
-Kaohsiung
-Taipei
-Tainan
-Zhongli
-Hsinchu
-Taoyuan District
-Keelung
-Chiayi
-Bangkok
-Chiang Mai
-Nakhon Ratchasima
-Khon Kaen
-Hat Yai
-Chon Buri
-Phatthaya
-Si Racha
-Phuket
-Chaguanas
-Port of Spain
-Arima
-Couva
-Aranguez
-Point Fortin
-Princes Town
-Tunis
-Sidi Bouzid
-Sfax
-Sousse
-Kairouan
-Metouia
-Kebili
-Istanbul
-Ankara
-Izmir
-Bursa
-Konya
-Mersin
-Adana
-Diyarbakir
-Kayseri
-Samsun
-Antalya
-Kyiv
-Kharkiv
-Odesa
-Dnipro
-Donetsk
-Lviv
-Zaporizhzhia
-Bazal'tove
-Kryvyi Rih
-Dubai
-Abu Dhabi
-Sharjah
-Al `Ayn
-`Ajman
-Ra's al Khaymah
-Al Fujayrah
-Umm al Qaywayn
-Kalba
-London
-Birmingham
-Portsmouth
-Southampton
-Leeds
-Nottingham
-Bristol
-Glasgow
-Manchester
-Sheffield
-Liverpool
-Leicester
-Caerdydd
-Edinburgh
-Worthing
-Stoke-on-Trent
-Coventry
-Belfast
+Aarhus
 Aberdeen
-Oxford
-Brighton
-New York
-Los Angeles
-Chicago
-Miami
-Houston
-Dallas
-Philadelphia
-Atlanta
-Washington
-Boston
-Phoenix
-Detroit
-Seattle
-San Francisco
-San Diego
-Minneapolis
-Tampa
-Brooklyn
-Denver
-Queens
-Riverside
-Las Vegas
-Baltimore
-St. Louis
-Portland
-San Antonio
-Sacramento
-Austin
-Orlando
-San Jose
-Pittsburgh
-Indianapolis
-Manhattan
-Cincinnati
-Kansas City
-Cleveland
-Columbus
-Charlotte
-Milwaukee
-Jacksonville
-Nashville
-Salt Lake City
-Raleigh
-Memphis
-Oklahoma City
-Louisville
-New Orleans
-Fort Worth
-Tucson
-Omaha
+Abu Dhabi
+Accra
+Addis Ababa
+Adelaide
+Ahmedabad
 Albuquerque
-Tulsa
-Colorado Springs
-Reno
-Spokane
-Madison
-Boise
-Oakland
-Honolulu
-Ann Arbor
-Irvine
+Alexandria
+Algiers
+Alicante
+Almaty
+Amman
+Amsterdam
 Anchorage
-Fort Lauderdale
-Hanover
-Montevideo
-Maldonado
-Ciudad de la Costa
-Paysandu
-Las Piedras
-Rivera
-Tacuarembo
-Tashkent
-Namangan
-Andijon
-Samarkand
-Nukus
-Farg`ona
-Bukhara
+Ankara
+Ann Arbor
+Antalya
+Antwerp
+Athens
+Atlanta
+Auckland
+Augsburg
+Austin
+Baghdad
+Baku
+Bali
+Baltimore
+Bangalore
+Bangkok
+Banja Luka
+Barcelona
+Basel
+Batumi
+Beijing
+Beirut
+Belfast
+Belgrade
+Belo Horizonte
+Bergen
+Berlin
+Bern
+Bilbao
+Birmingham
+Bishkek
+Bogota
+Boise
+Bologna
+Bonn
+Bordeaux
+Boston
+Braga
+Brasilia
+Brasov
+Bratislava
+Bremen
+Brighton
+Brisbane
+Bristol
+Brno
+Brussels
+Bucharest
+Budapest
+Budva
+Buenos Aires
+Burgas
+Bursa
+Cairo
+Calgary
+Cali
+Cambridge
+Canberra
+Cape Town
 Caracas
-Maracaibo
-Barquisimeto
-San Cristobal
-Barinas
-Ciudad Guayana
-Catia La Mar
-Ho Chi Minh City
+Casablanca
+Chandigarh
+Charlotte
+Chelyabinsk
+Chengdu
+Chennai
+Chiang Mai
+Chicago
+Chisinau
+Christchurch
+Cincinnati
+Cluj-Napoca
+Coimbatore
+Coimbra
+Cologne
+Colombo
+Colorado Springs
+Columbus
+Copenhagen
+Cork
+Coventry
+Curitiba
+Dallas
+Debrecen
+Delft
+Delhi
+Denver
+Detroit
+Dhaka
+Dnipro
+Doha
+Douala
+Dresden
+Dubai
+Dublin
+Durban
+Dusseldorf
+Edinburgh
+Edmonton
+Eindhoven
+Erlangen
+Espoo
+Essen
+Florence
+Florianopolis
+Fort Lauderdale
+Fort Worth
+Fortaleza
+Frankfurt
+Freiburg im Breisgau
+Galway
+Gdansk
+Gdynia
+Geneva
+Genoa
+Gent
+Glasgow
+Gothenburg
+Graz
+Groningen
+Guadalajara
+Guangzhou
+Guatemala City
+Gurgaon
+Haarlem
+Haifa
+Halifax
+Hamburg
+Hamilton
+Hangzhou
 Hanoi
-Haiphong
-Can Tho
-Bien Hoa
-Thu Duc
-Quang Ha
-Hue
+Hanover
 Harare
-Masvingo
-Bulawayo
-Chitungwiza
-Mutare
-Lupane
-Gweru
+Heidelberg
+Helsinki
+Ho Chi Minh City
+Hong Kong
+Honolulu
+Houston
+Hyderabad
+Iasi
+Indianapolis
+Irvine
+Islamabad
+Istanbul
+Izmir
+Jacksonville
+Jaipur
+Jakarta
+Jerusalem
+Johannesburg
+Kaliningrad
+Kansas City
+Kaohsiung
+Karachi
+Kathmandu
+Katowice
+Kaunas
+Kazan
+Kharkiv
+Kigali
+Kochi
+Kolkata
+Kosice
+Krasnodar
+Kuala Lumpur
+Kuwait City
+Lagos
+Lahore
+Las Vegas
+Lausanne
+Leeds
+Leipzig
+Lima
+Limassol
+Linz
+Lisbon
+Liverpool
+Ljubljana
+Lodz
+London
+Los Angeles
+Louisville
+Luxembourg
+Lviv
+Lyon
+Maastricht
+Madison
+Madrid
+Malaga
+Malmo
+Manama
+Manchester
+Manila
+Mannheim
+Marrakech
+Medellin
+Melbourne
+Memphis
+Mexico City
+Miami
+Milan
+Milwaukee
+Minneapolis
+Minsk
+Mississauga
+Monterrey
+Montevideo
+Montpellier
+Montreal
+Moscow
+Mumbai
+Munich
+Muscat
+Nairobi
+Nanjing
+Naples
+Nashville
+New Orleans
+New York
+Nicosia
+Nis
+Noida
+Nottingham
+Novi Sad
+Novosibirsk
+Nuremberg
+Oakland
+Oklahoma City
+Omaha
+Oradea
+Orlando
+Osaka
+Osijek
+Oslo
+Ostrava
+Ottawa
+Oxford
+Padova
+Panama City
+Paphos
+Paris
+Parma
+Perm
+Perth
+Philadelphia
+Phnom Penh
+Phoenix
+Phuket
+Pittsburgh
+Plovdiv
+Plzen
+Podgorica
+Port of Spain
+Portland
+Porto
+Porto Alegre
+Poznan
+Prague
+Pretoria
+Pristina
+Pune
+Quebec City
+Quito
+Rabat
+Raleigh
+Reno
+Reykjavik
+Riga
+Rijeka
+Rimini
+Rio de Janeiro
+Riyadh
+Rome
+Rotterdam
+Sacramento
+Saint Petersburg
+Salt Lake City
+Salzburg
+Samara
+San Antonio
+San Diego
+San Francisco
+San Jose
+San Juan
+Santiago
+Santo Domingo
+Sao Paulo
+Sarajevo
+Saskatoon
+Seattle
+Seoul
+Shanghai
+Sharjah
+Sheffield
+Shenzhen
+Sibiu
+Singapore
+Skopje
+Sliema
+Sofia
+Split
+Spokane
+Stavanger
+Stockholm
+Stuttgart
+Surat
+Suzhou
+Sydney
+Szczecin
+Szeged
+Taichung
+Taipei
+Tallinn
+Tampa
+Tampere
+Tangier
+Tartu
+Tashkent
+Tbilisi
+Tehran
+Tel Aviv-Yafo
+Thessaloniki
+Timisoara
+Tirana
+Tokyo
+Toronto
+Trondheim
+Tucson
+Tulsa
+Tunis
+Turin
+Turku
+Ufa
+Ulaanbaatar
+Uppsala
+Utrecht
+Vadodara
+Valencia
+Vancouver
+Varna
+Victoria
+Vienna
+Vigo
+Vilnius
+Vladivostok
+Warsaw
+Washington
+Wellington
+Winnipeg
+Wroclaw
+Wuhan
+Yekaterinburg
+Yerevan
+Zagreb
+Zurich
