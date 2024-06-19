@@ -1,24 +1,35 @@
-# XGBoostRegressor.py
+# ANNRegressor.py
 
 import os
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error
 import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
-import xgboost as xgb
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
 from data_engineering import get_cleaned_data
 from datetime import datetime
 
+def build_ann_model(input_dim):
+    model = Sequential()
+    model.add(Dense(64, input_dim=input_dim, activation='relu'))
+    model.add(Dense(32, activation='relu'))
+    model.add(Dense(1))
+    model.compile(optimizer='adam', loss='mean_squared_error')
+    return model
+
 def train_model(X_train, y_train):
-    model = xgb.XGBRegressor(n_estimators=200, random_state=42)
-    model.fit(X_train, y_train)
+    model = build_ann_model(X_train.shape[1])
+    model.fit(X_train, y_train, epochs=50, batch_size=32, verbose=0)
     return model
 
 def evaluate_model(model, X_test, y_test):
-    predictions = model.predict(X_test)
+    predictions = model.predict(X_test).flatten()
     rmse = mean_squared_error(y_test, predictions, squared=False)
     return rmse, predictions
 
@@ -52,31 +63,27 @@ The following plots are generated and saved in the `plots` directory:
    - Plots the predicted net migration values against the actual values.
    - A good fit is indicated by points lying close to the diagonal line.
 
-4. Feature Importance Plot ({model_name}_feature_importance_{current_date}_04.png)
-   - Shows the importance of each feature used in the model.
-   - Helps understand which factors are most influential in predicting net migration.
-
-5. Residuals vs. Predicted Values Plot ({model_name}_residuals_vs_predicted_{current_date}_05.png)
+4. Residuals vs. Predicted Values Plot ({model_name}_residuals_vs_predicted_{current_date}_05.png)
    - Plots residuals against predicted values.
    - Useful for detecting heteroscedasticity and other patterns in the residuals.
 
-6. Predicted vs. Actual Values Line Plot ({model_name}_predicted_vs_actual_line_{current_date}_06.png)
+5. Predicted vs. Actual Values Line Plot ({model_name}_predicted_vs_actual_line_{current_date}_06.png)
    - Line plot showing predicted and actual values across the test data points.
    - Useful for visually inspecting the model's performance over the dataset.
 
-7. Cumulative Explained Variance by PCA ({model_name}_cumulative_explained_variance_{current_date}_07.png)
+6. Cumulative Explained Variance by PCA ({model_name}_cumulative_explained_variance_{current_date}_07.png)
    - Shows the cumulative explained variance by the principal components.
    - Useful for understanding the variance explained by the PCA components.
 
-8. Pairplot of Key Features ({model_name}_pairplot_{current_date}_08.png)
+7. Pairplot of Key Features ({model_name}_pairplot_{current_date}_08.png)
    - Pairwise plots of key features and their relationships.
    - Helps visualize correlations and interactions between features.
 
-9. Comparison Plot ({model_name}_comparison_{current_date}_09.png)
+8. Comparison Plot ({model_name}_comparison_{current_date}_09.png)
    - Comparison of a specific feature's predicted vs. actual values.
    - Useful for detailed inspection of the model's performance on a particular feature.
 
-10. Error Histogram ({model_name}_error_histogram_{current_date}_10.png)
+9. Error Histogram ({model_name}_error_histogram_{current_date}_10.png)
     - Histogram of prediction errors.
     - Helps understand the distribution and magnitude of prediction errors.
 
@@ -108,6 +115,10 @@ if __name__ == "__main__":
     X = net_mig_clean[features_list]
     y = net_mig_clean['Net_Migration']
     
+    # Standardize the data
+    scaler = StandardScaler()
+    X = scaler.fit_transform(X)
+    
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
     
     model = train_model(X_train, y_train)
@@ -118,11 +129,10 @@ if __name__ == "__main__":
     print(f"Train RMSE: {train_rmse:.2f}")
     print(f"Test RMSE: {test_rmse:.2f}")
     
-    # Save the model as .pkl and .bin with model name included
-    model_name = 'xgboost'
-    joblib.dump(model, os.path.join(pkl_dir, f'{model_name}_{current_date}.pkl'))
-    with open(os.path.join(bins_dir, f'{model_name}_{current_date}.bin'), 'wb') as bin_file:
-        joblib.dump(model, bin_file)
+    # Save the model and scaler
+    model_name = 'ann'
+    model.save(os.path.join(pkl_dir, f'{model_name}_{current_date}.h5'))
+    joblib.dump(scaler, os.path.join(pkl_dir, f'{model_name}_scaler_{current_date}.pkl'))
 
     # Create the report file
     create_report(model_name, train_rmse, test_rmse, current_date)
@@ -157,20 +167,6 @@ if __name__ == "__main__":
     plt.savefig(os.path.join(plots_dir, f'{model_name}_scatter_{current_date}_03.png'))
     plt.close()
     
-    # Feature Importance Plot
-    importances = model.feature_importances_
-    indices = np.argsort(importances)[::-1]
-
-    plt.figure()
-    plt.title(f"Feature Importance - {model_name}")
-    plt.bar(range(X.shape[1]), importances[indices], color="r", align="center")
-    plt.xticks(range(X.shape[1]), [features_list[i] for i in indices], rotation=90)
-    plt.xlabel('Features')
-    plt.ylabel('Importance')
-    plt.tight_layout()
-    plt.savefig(os.path.join(plots_dir, f'{model_name}_feature_importance_{current_date}_04.png'))
-    plt.close()
-
     # Residuals vs. Predicted Values Plot
     plt.figure()
     plt.scatter(test_predictions, residuals_test, alpha=0.5, color='blue')
@@ -212,7 +208,7 @@ if __name__ == "__main__":
     plt.close()
     
     # Plot comparison
-    NetMig_test = X_test.iloc[:, 7]  # Assuming the 8th column (index 7) is of interest
+    NetMig_test = X_test[:, 7]  # Assuming the 8th column (index 7) is of interest
     plt.figure()
     plt.scatter(NetMig_test, y_test, color='blue', label="Net Migration - True")
     plt.scatter(NetMig_test, test_predictions, color='red', label="Net Migration - Predicted")

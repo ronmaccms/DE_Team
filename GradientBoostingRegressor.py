@@ -1,4 +1,4 @@
-# XGBoostRegressor.py
+# GradientBoostingRegressor.py
 
 import os
 import pandas as pd
@@ -8,12 +8,12 @@ from sklearn.metrics import mean_squared_error
 import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
-import xgboost as xgb
+from sklearn.ensemble import GradientBoostingRegressor
 from data_engineering import get_cleaned_data
 from datetime import datetime
 
 def train_model(X_train, y_train):
-    model = xgb.XGBRegressor(n_estimators=200, random_state=42)
+    model = GradientBoostingRegressor(n_estimators=200, random_state=42)
     model.fit(X_train, y_train)
     return model
 
@@ -119,7 +119,7 @@ if __name__ == "__main__":
     print(f"Test RMSE: {test_rmse:.2f}")
     
     # Save the model as .pkl and .bin with model name included
-    model_name = 'xgboost'
+    model_name = 'gradient_boosting'
     joblib.dump(model, os.path.join(pkl_dir, f'{model_name}_{current_date}.pkl'))
     with open(os.path.join(bins_dir, f'{model_name}_{current_date}.bin'), 'wb') as bin_file:
         joblib.dump(model, bin_file)
