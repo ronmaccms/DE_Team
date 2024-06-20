@@ -1,13 +1,12 @@
+# conda activate DE-Test1
+
 import requests
 
 url = 'http://127.0.0.1:5000/predict'
 data = {
-    'population_density': 2000,
-    'median_income': 55000,
-    'employment_rate': 0.95,
-    'climate_index': 5,
-    'cost_of_living_index': 3,
-    'health_care_index': 4
+    'Net_Migration': 3,
+    'country': 5,
+    'city': 6,
 }
 
 response = requests.post(url, json=data)
