@@ -1,10 +1,9 @@
-# XGBoostRegressor.py
-
 import os
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_squared_error
+from sklearn.preprocessing import StandardScaler
 import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -107,8 +106,17 @@ if __name__ == "__main__":
     features_list = [col for col in net_mig_clean.columns if col not in ['Net_Migration', 'country', 'city']]
     X = net_mig_clean[features_list]
     y = net_mig_clean['Net_Migration']
+
+    # Save feature names
+    model_name = 'xgboost'
+    feature_names_path = os.path.join(pkl_dir, f'{model_name}_feature_names_{current_date}.pkl')
+    joblib.dump(features_list, feature_names_path)
+
+    # Standardize features by removing the mean and scaling to unit variance
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(X)
     
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
     
     model = train_model(X_train, y_train)
     
@@ -118,11 +126,9 @@ if __name__ == "__main__":
     print(f"Train RMSE: {train_rmse:.2f}")
     print(f"Test RMSE: {test_rmse:.2f}")
     
-    # Save the model as .pkl and .bin with model name included
-    model_name = 'xgboost'
+    # Save the model and scaler as .pkl files
     joblib.dump(model, os.path.join(pkl_dir, f'{model_name}_{current_date}.pkl'))
-    with open(os.path.join(bins_dir, f'{model_name}_{current_date}.bin'), 'wb') as bin_file:
-        joblib.dump(model, bin_file)
+    joblib.dump(scaler, os.path.join(pkl_dir, f'{model_name}_scaler_{current_date}.pkl'))
 
     # Create the report file
     create_report(model_name, train_rmse, test_rmse, current_date)
@@ -189,46 +195,4 @@ if __name__ == "__main__":
     plt.title(f'Predicted vs. Actual Values - {model_name}')
     plt.xlabel('Data Points')
     plt.ylabel('Net Migration')
-    plt.legend()
-    plt.grid(True)
-    plt.savefig(os.path.join(plots_dir, f'{model_name}_predicted_vs_actual_line_{current_date}_06.png'))
-    plt.close()
-
-    # Cumulative Explained Variance Plot
-    plt.figure()
-    plt.plot(np.arange(1, len(explained_variance) + 1), explained_variance, marker='o', linestyle='--', color='b')
-    plt.title(f'Cumulative Explained Variance by PCA - {model_name}')
-    plt.xlabel('Number of Components')
-    plt.ylabel('Cumulative Explained Variance')
-    plt.grid(True)
-    plt.savefig(os.path.join(plots_dir, f'{model_name}_cumulative_explained_variance_{current_date}_07.png'))
-    plt.close()
-
-    # Pairplot of Key Features
-    key_features = features_list[:5]  # Select top 5 features for simplicity
-    pairplot_data = net_mig_clean[key_features + ['Net_Migration']]
-    sns.pairplot(pairplot_data, diag_kind='kde')
-    plt.savefig(os.path.join(plots_dir, f'{model_name}_pairplot_{current_date}_08.png'))
-    plt.close()
-    
-    # Plot comparison
-    NetMig_test = X_test.iloc[:, 7]  # Assuming the 8th column (index 7) is of interest
-    plt.figure()
-    plt.scatter(NetMig_test, y_test, color='blue', label="Net Migration - True")
-    plt.scatter(NetMig_test, test_predictions, color='red', label="Net Migration - Predicted")
-    plt.xlabel('Net Migration Feature')
-    plt.ylabel('Net Migration')
-    plt.legend()
-    plt.grid(True)
-    plt.savefig(os.path.join(plots_dir, f'{model_name}_comparison_{current_date}_09.png'))
-    plt.close()
-    
-    # Error Histogram
-    error = test_predictions - y_test
-    plt.figure()
-    plt.hist(error, bins=25)
-    plt.xlabel('Prediction Error')
-    plt.ylabel('Count')
-    plt.grid(True)
-    plt.savefig(os.path.join(plots_dir, f'{model_name}_error_histogram_{current_date}_10.png'))
-    plt.close()
+    plt.legend

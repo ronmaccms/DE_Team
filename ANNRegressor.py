@@ -128,10 +128,14 @@ if __name__ == "__main__":
     
     print(f"Train RMSE: {train_rmse:.2f}")
     print(f"Test RMSE: {test_rmse:.2f}")
+
+    # Print sample predictions for debugging
+    print("Sample predictions:", test_predictions[:5])
+    print("Actual values:", y_test.values[:5])
     
     # Save the model and scaler
     model_name = 'ann'
-    model.save(os.path.join(pkl_dir, f'{model_name}_{current_date}.h5'))
+    model.save(os.path.join(pkl_dir, f'{model_name}_{current_date}.keras'))
     joblib.dump(scaler, os.path.join(pkl_dir, f'{model_name}_scaler_{current_date}.pkl'))
 
     # Create the report file
@@ -159,7 +163,7 @@ if __name__ == "__main__":
 
     plt.figure()
     plt.scatter(test_predictions, y_test, alpha=0.5, color='blue')
-    plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=2, color='red')
+    plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=2)
     plt.title(f'Scatter Plot of Predicted vs. Actual Values - {model_name}')
     plt.xlabel('Predicted Values')
     plt.ylabel('Actual Values')

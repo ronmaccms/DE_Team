@@ -118,6 +118,10 @@ if __name__ == "__main__":
     print(f"Train RMSE: {train_rmse:.2f}")
     print(f"Test RMSE: {test_rmse:.2f}")
     
+    # Print sample predictions for debugging
+    print("Sample predictions:", test_predictions[:5])
+    print("Actual values:", y_test.values[:5])
+    
     # Save the model as .pkl and .bin with model name included
     model_name = 'gradient_boosting'
     joblib.dump(model, os.path.join(pkl_dir, f'{model_name}_{current_date}.pkl'))
@@ -149,7 +153,7 @@ if __name__ == "__main__":
 
     plt.figure()
     plt.scatter(test_predictions, y_test, alpha=0.5, color='blue')
-    plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=2, color='red')
+    plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=2)
     plt.title(f'Scatter Plot of Predicted vs. Actual Values - {model_name}')
     plt.xlabel('Predicted Values')
     plt.ylabel('Actual Values')
