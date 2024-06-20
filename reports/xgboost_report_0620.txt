@@ -1,0 +1,60 @@
+
+Net Migration Analysis Report using xgboost Regressor
+=======================================================================
+
+Overview
+--------
+This report provides an analysis and prediction of net migration using the xgboost Regressor model. The model is trained on a dataset containing various features related to migration, and its performance is evaluated using RMSE (Root Mean Squared Error).
+
+Model Performance
+-----------------
+- Train RMSE: 0.00
+- Test RMSE: 0.21
+
+Generated Plots and Their Interpretations
+-----------------------------------------
+The following plots are generated and saved in the `plots` directory:
+
+1. Histogram of Net_Migration (xgboost_histogram_0620_01.png)
+   - Shows the distribution of net migration values in the dataset.
+   - Useful to understand the spread and central tendency of migration data.
+
+2. Distribution of Residuals (xgboost_distribution_0620_02.png)
+   - Displays the distribution of the residuals (errors) from the model's predictions.
+   - Helps identify any patterns or biases in the model's predictions.
+
+3. Scatter Plot of Predicted vs. Actual Values (xgboost_scatter_0620_03.png)
+   - Plots the predicted net migration values against the actual values.
+   - A good fit is indicated by points lying close to the diagonal line.
+
+4. Feature Importance Plot (xgboost_feature_importance_0620_04.png)
+   - Shows the importance of each feature used in the model.
+   - Helps understand which factors are most influential in predicting net migration.
+
+5. Residuals vs. Predicted Values Plot (xgboost_residuals_vs_predicted_0620_05.png)
+   - Plots residuals against predicted values.
+   - Useful for detecting heteroscedasticity and other patterns in the residuals.
+
+6. Predicted vs. Actual Values Line Plot (xgboost_predicted_vs_actual_line_0620_06.png)
+   - Line plot showing predicted and actual values across the test data points.
+   - Useful for visually inspecting the model's performance over the dataset.
+
+7. Cumulative Explained Variance by PCA (xgboost_cumulative_explained_variance_0620_07.png)
+   - Shows the cumulative explained variance by the principal components.
+   - Useful for understanding the variance explained by the PCA components.
+
+8. Pairplot of Key Features (xgboost_pairplot_0620_08.png)
+   - Pairwise plots of key features and their relationships.
+   - Helps visualize correlations and interactions between features.
+
+9. Comparison Plot (xgboost_comparison_0620_09.png)
+   - Comparison of a specific feature's predicted vs. actual values.
+   - Useful for detailed inspection of the model's performance on a particular feature.
+
+10. Error Histogram (xgboost_error_histogram_0620_10.png)
+    - Histogram of prediction errors.
+    - Helps understand the distribution and magnitude of prediction errors.
+
+Conclusion
+----------
+This project provides a comprehensive analysis of net migration using the xgboost model. The generated plots and metrics help in understanding the factors influencing migration and the effectiveness of the model in predicting migration patterns.

@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 import numpy as np
-from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import StandardScaler
 import joblib
@@ -107,6 +107,9 @@ if __name__ == "__main__":
     X = net_mig_clean[features_list]
     y = net_mig_clean['Net_Migration']
 
+    # Debug print
+    print("Features used for training:", features_list)
+
     # Save feature names
     model_name = 'xgboost'
     feature_names_path = os.path.join(pkl_dir, f'{model_name}_feature_names_{current_date}.pkl')
@@ -195,4 +198,7 @@ if __name__ == "__main__":
     plt.title(f'Predicted vs. Actual Values - {model_name}')
     plt.xlabel('Data Points')
     plt.ylabel('Net Migration')
-    plt.legend
+    plt.legend()
+    plt.grid(True)
+    plt.savefig(os.path.join(plots_dir, f'{model_name}_predicted_vs_actual_line_{current_date}_06.png'))
+    plt.close()
